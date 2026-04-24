@@ -44,7 +44,20 @@ Elke boekpagina wordt volledig gedreven door de frontmatter en de markdown body.
 - `scores`: 0-10 op vier assen
 - `lessons`: lijst met `{ title, description }`, de belangrijkste lessen
 - `affiliate.managementboek`: URL naar de Managementboek.nl-pagina
-- `coverImage`: URL of pad naar de boekcover. Externe URL (`https://...`) werkt direct, of plaats een lokaal bestand in `public/covers/<isbn>.jpg` en verwijs via `/covers/<isbn>.jpg`
+- `coverImage`: optioneel. Normaal gesproken niet nodig: als `isbn` is gezet, wordt automatisch `https://i.mgtbk.nl/boeken/<ISBN>-920x960.jpg` gebruikt (Managementboek CDN). Zet dit veld alleen als je een afwijkende URL of lokaal bestand (`/covers/<isbn>.jpg`) wilt forceren.
+
+### Snel ISBNs toevoegen aan meerdere boeken in één keer
+
+```bash
+npm run set-isbn -- <slug> <isbn> [slug isbn ...]
+```
+
+Voorbeeld:
+```bash
+npm run set-isbn -- goeiegast 9789492595980 the-culture-map 9789047016458
+```
+
+Cover verschijnt daarna automatisch, geen extra config nodig.
 
 ### 3. Review schrijven
 

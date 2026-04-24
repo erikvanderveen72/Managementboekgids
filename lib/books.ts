@@ -22,7 +22,16 @@ function readRaw(slug: string) {
   return matter(raw);
 }
 
+function coverFromIsbn(isbn?: string): string | undefined {
+  if (!isbn) return undefined;
+  const clean = isbn.replace(/[^0-9Xx]/g, "");
+  if (!clean) return undefined;
+  return `https://i.mgtbk.nl/boeken/${clean}-920x960.jpg`;
+}
+
 function toMeta(slug: string, data: Record<string, unknown>): BookMeta {
+  const isbn = data.isbn as string | undefined;
+  const explicitCover = data.coverImage as string | undefined;
   return {
     slug,
     title: String(data.title ?? slug),
@@ -31,11 +40,11 @@ function toMeta(slug: string, data: Record<string, unknown>): BookMeta {
     publisher: data.publisher as string | undefined,
     year: data.year as number | undefined,
     pages: data.pages as number | undefined,
-    isbn: data.isbn as string | undefined,
+    isbn,
     categories: (data.categories as string[]) ?? [],
     publishedAt: String(data.publishedAt ?? ""),
     updatedAt: data.updatedAt as string | undefined,
-    coverImage: data.coverImage as string | undefined,
+    coverImage: explicitCover || coverFromIsbn(isbn),
     excerpt: String(data.excerpt ?? ""),
     coreIdea: String(data.coreIdea ?? ""),
     forWhom: (data.forWhom as string[]) ?? [],
