@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { BookMeta } from "@/lib/types";
+import { BookCover } from "./BookCover";
 
 type Props = {
   book: BookMeta;
@@ -13,6 +14,17 @@ export function BookCard({ book, rank }: Props) {
         <span className="mb-3 font-serif text-xs uppercase tracking-widest text-ink-muted">
           #{rank.toString().padStart(2, "0")}
         </span>
+      )}
+      {book.coverImage && (
+        <Link href={`/boeken/${book.slug}`} className="mb-5 block">
+          <div className="flex justify-center bg-paper-warm py-4">
+            <BookCover
+              src={book.coverImage}
+              alt={`Cover van ${book.title}`}
+              maxHeight={220}
+            />
+          </div>
+        </Link>
       )}
       <h3 className="font-serif text-xl leading-snug">
         <Link
