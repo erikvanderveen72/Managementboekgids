@@ -170,23 +170,77 @@ Het ritueel dat dit afdwingt: de **afsluitende samenvatting**. Aan het eind van 
 
 **Waarschuwing.** Ook bij interne gesprekken is een schriftelijke bevestiging geen wantrouwen. Het is beroepsmatig. "Zoals we net afspraken: jij levert X voor datum Y, ik regel Z." Dat is geen juridische overeenkomst, maar het geeft iedereen dezelfde herinnering.
 
-## Praktische toepassing
+## Het voorbereidingswerkblad: zes vragen
 
-### Voor managers
+Het rode draadgereedschap uit *Van doel naar deal* is een ritueel dat je voor elk belangrijk gesprek doet. Niet in je hoofd — op papier. De kwaliteit van je antwoorden voorspelt de kwaliteit van de uitkomst.
 
-Als manager onderhandel je vaker dan je denkt: over budget, prioriteiten, capaciteit, verantwoordelijkheden. De belangrijkste les uit *Van doel naar deal* voor managers is dat je van tevoren op papier moet zetten wat je werkelijke doel is — niet wat je eerste voorstel is. Wie alleen naar binnen gaat met een openingsbod, geeft impliciet de regie weg aan de ander.
+1. **Wat wil ik écht bereiken?** Niet je openingsbod, maar je onderliggende doel. Waarom is dit belangrijk voor jou?
+2. **Wat is mijn BATNA?** Wat doe ik als er geen deal komt? Kan ik die positie nog versterken vóór het gesprek?
+3. **Wat wil de ander werkelijk?** Welk belang schuilt onder zijn standpunt? Wat weet ik daarover, wat moet ik nog uitzoeken?
+4. **Welke objectieve criteria gelden hier?** Welke standaarden, benchmarks of precedenten kan ik gebruiken om het gesprek uit het persoonlijke te trekken?
+5. **Welke variabelen staan op tafel?** Naast de hoofdvariabele (prijs, salaris, scope) welke factoren ook: looptijd, betaaltermijn, exclusiviteit, risicoverdeling, evaluatiemomenten?
+6. **Welke emotie kan mij uit balans brengen?** Haast? Irritatie? De drang om de ander aardig te vinden? Benoem je eigen valkuil vooraf — dan herken je hem in het moment.
 
-Concreet: voordat je een gesprek ingaat, beantwoord je drie vragen. Wat wil ik écht bereiken? Wat is mijn alternatief als er geen afspraak komt? En welk belang van de ander kan ik bedienen zonder mijn eigen doel op te geven?
+Het werkblad lijkt veel, maar kost je bij de derde keer nog maar tien minuten. Die tien minuten leveren elke keer meer op dan het gesprek zelf.
 
-### Voor ondernemers
+## Vier scenario's: hoe het boek in de praktijk werkt
 
-Ondernemers onderhandelen zelden over één ding tegelijk. Een klantdeal gaat niet alleen over prijs, maar ook over betaaltermijn, scope, aansprakelijkheid, looptijd en verlenging. Het boek herinnert je eraan dat **meerdere onderhandelvariabelen** vaak ruimte scheppen waar één variabele vastzit. Een klant die niet wil zakken in prijs, kan wel meebewegen op betaaltermijn of volume.
+### Scenario 1: het salarisgesprek
 
-Voor investeringsgesprekken is de les om je BATNA te versterken vóór je aan tafel zit: meerdere gesprekken tegelijk, een gezonde cashpositie, of een duidelijke roadmap zonder de investeerder. Je positie wordt bepaald door wat je doet als deze deal niet doorgaat.
+Je wilt er drie procent bij. Je werkgever wil budgettair niet meer dan één procent per medewerker geven. Op het eerste gezicht onverzoenbaar.
 
-### Voor teams en professionals
+**Waar het mis gaat (klassieke aanpak).** Je opent met drie procent, je werkgever biedt één procent, jullie komen uit op anderhalf. Iedereen teleurgesteld, relatie bekoeld.
 
-Voor professionals zonder formele macht — projectleiders, adviseurs, interne experts — is de belangrijkste les dat je invloed grotendeels uit **voorbereiding** komt. Wie eerder dan de rest begrijpt welke belangen er spelen, welke criteria iedereen accepteert en welke alternatieven er zijn, wordt vaak degene die het voorstel mag formuleren. Dat is stilletjes de machtigste plek in elk overleg.
+**De Van-doel-naar-deal-aanpak.** Je weet: je werkelijke doel is niet het percentage, maar erkenning en zekerheid. Je werkgever zit met een rigide salarisbudget, maar heeft wel ruimte op andere assen. Je brengt objectieve criteria mee (marktsalarisdata voor je functie), je kent je BATNA (een recruiter belt je geregeld), en je hebt variabelen achter de hand: een extra opleidingsbudget, verlofdagen, een nieuwe titel met meer verantwoordelijkheid, of een tussentijds evaluatiemoment over zes maanden.
+
+Het gesprek wordt dan niet "ik wil drie, jij geeft één", maar "het budget klemt dit jaar, maar ik wil me wel gewaardeerd voelen — kunnen we dat anders invullen?". Dat is hetzelfde uitgangspunt, maar een compleet ander gesprek.
+
+### Scenario 2: de contractverlenging met een belangrijke klant
+
+Je bent dienstverlener, je klant wil verlengen maar eist tien procent korting. Zonder korting dreigt hij naar een concurrent.
+
+**Valkuil.** Je geeft toe op prijs omdat je de klant niet kunt missen. Je marge verdampt, je team levert hetzelfde werk voor minder, je zet een precedent voor andere klanten.
+
+**De aanpak.** Eerst je eigen doel: marge én relatie, niet alleen één van beide. Dan de belangen van de klant: waarom die tien procent? Bezuiniging van boven? Benchmark van een andere leverancier? Of een machtsspel om te testen hoe bereid jij bent te buigen? De vraag bepaalt het antwoord.
+
+Is het een bezuiniging, dan kun je helpen door scope slim aan te passen: hetzelfde werk met minder rapportage, of een gestroomlijnd service level. Is het een benchmark, dan kun je objectieve criteria inbrengen (vergelijkbare dienstverleners, kwaliteitsstatistieken). Is het een machtsspel, dan houd je rustig stand en toon je wat je BATNA is zonder te dreigen.
+
+### Scenario 3: de interne budget-onderhandeling
+
+Je leidt een afdeling, je vraagt volgend jaar een budgetverhoging voor twee nieuwe FTE's. Je directeur zegt "geen ruimte". Einde gesprek — althans, in de klassieke versie.
+
+**De aanpak.** Je directeur heeft een belang dat groter is dan jouw afdeling: het totale budget klopt niet of hij krijgt van boven de opdracht om te bezuinigen. Jouw "nee" is niet persoonlijk. Aanvaard dat kader eerst.
+
+Vervolgens zoek je ruimte die je directeur kán geven. Niet twee FTE's, maar één FTE plus één detachering vanuit een andere afdeling. Of één FTE nu en een tweede pas als de omzetdoelen worden gehaald. Of geen FTE, maar een uitbreiding van het inhuurbudget. Of een heldere koppeling tussen bedrijfsdoelen en jouw capaciteitsvraag, zodat volgende ronde het gesprek anders ligt.
+
+Objectieve criteria: workload-data, ziekteverzuim in je team, doorlooptijd van klantverzoeken. Niet "ik heb meer mensen nodig omdat we hard werken", maar "dit is de gegevensgedreven reden".
+
+### Scenario 4: de leveranciersdeal
+
+Je koopt software in voor je bedrijf. De leverancier vraagt een jaarcontract met automatische verlenging en elf procent prijsstijging.
+
+**Valkuil.** Je tekent onder tijdsdruk en ontdekt over dertien maanden dat je vastzit.
+
+**De aanpak.** Je BATNA eerst: is er een alternatieve leverancier? Kan je huidige oplossing nog een kwartaal mee? Elke dag extra tijd sterkt je positie. Dan de variabelen: looptijd, prijsstijging, opzeggingsvoorwaarden, service level, onderhoudsinclusief, migratieondersteuning, exclusiviteit.
+
+Objectieve criteria: inflatieniveau (is elf procent marktconform?), wat andere klanten van dezelfde leverancier betalen (vaak te achterhalen), branchestandaarden voor opzegtermijnen. Elk van deze gegevens verschuift het gesprek van "wij willen dit" naar "wat is redelijk".
+
+Sluit af met een heldere samenvatting, schriftelijk. Ook als de leverancier dat niet vraagt — zeker dan.
+
+## Tien veelgemaakte fouten die dit boek voorkomt
+
+1. **Onderhandelen zonder vooraf je doel op te schrijven.**
+2. **Je openingsbod verwarren met je minimum.**
+3. **Je BATNA niet kennen of niet versterken voordat je aan tafel zit.**
+4. **Blijven hangen in standpunten ("ik wil X, jij wilt Y") zonder belangen te onderzoeken.**
+5. **Toegeven om de spanning kwijt te raken, in plaats van de spanning uithouden totdat er een betere oplossing op tafel ligt.**
+6. **De relatie met de inhoud verwarren — hard zijn op de persoon in plaats van op het probleem.**
+7. **Geen objectieve criteria voorbereiden, waardoor wilskracht het gesprek bepaalt.**
+8. **Tijdsdruk accepteren die de ander voor jou creëert.**
+9. **Geen schriftelijke samenvatting na afloop — de "wat hadden we ook alweer afgesproken"-val.**
+10. **Je eigen emotie niet herkennen als signaal om even te pauzeren.**
+
+Elk van deze tien fouten kost in een typische carrière duizenden euro's en honderden verloren uren. Het boek is hierop een gerichte vaccinatie.
 
 ## Sterke punten
 
