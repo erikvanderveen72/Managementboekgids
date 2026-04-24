@@ -8,7 +8,7 @@ publisher: "Uitgeverij Thema"
 year: 2026
 pages: 176
 isbn: "9789462724891"
-coverImage: "https://www.managementboek.nl/images/9789462724891/grs.jpg"
+coverImage: "https://i.mgtbk.nl/boeken/9789462724891-920x960.jpg"
 categories:
   - "Onderhandelen"
   - "Communicatie"
