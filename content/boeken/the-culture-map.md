@@ -11,8 +11,8 @@ categories:
   - "Internationaal zakendoen"
   - "Communicatie"
 publishedAt: "2026-04-21"
-excerpt: "Erin Meyer's The Culture Map is het standaardwerk over cultuurverschillen in internationale samenwerking. Acht meetbare schalen — van directe versus indirecte communicatie tot confronterend versus confrontatie-vermijdend — laten zien waarom teams die op papier dezelfde taal spreken, elkaar in de praktijk toch structureel verkeerd begrijpen."
-coreIdea: "Cultuur is geen vaag sentiment maar een meetbaar patroon van gedrag. Wie de acht schalen begrijpt, ziet waar misverstanden ontstaan — en kan ze voorkomen voordat ze schade aanrichten."
+excerpt: "Erin Meyer's The Culture Map is het standaardwerk over cultuurverschillen in internationale samenwerking. Acht meetbare schalen, van directe versus indirecte communicatie tot confronterend versus confrontatie-vermijdend, laten zien waarom teams die op papier dezelfde taal spreken, elkaar in de praktijk toch structureel verkeerd begrijpen."
+coreIdea: "Cultuur is geen vaag sentiment maar een meetbaar patroon van gedrag. Wie de acht schalen begrijpt, ziet waar misverstanden ontstaan, en kan ze voorkomen voordat ze schade aanrichten."
 forWhom:
   - "Leiders en managers die internationaal werken of gaan werken"
   - "Teams met teamleden uit meerdere landen"
@@ -25,16 +25,16 @@ notForWhom:
 strongPoints:
   - "Eén consistent model dat je meteen kunt toepassen"
   - "Rijk aan concrete zakelijke voorbeelden uit onderzoek en praktijk"
-  - "Breed internationaal gebruikt — ook buitenlandse collega's kennen het vaak"
+  - "Breed internationaal gebruikt, ook buitenlandse collega's kennen het vaak"
 weakPoints:
   - "Vereenvoudigt cultuur tot acht assen; nuance blijft soms liggen"
   - "Weinig aandacht voor subculturen binnen een land"
   - "Voorbeelden leunen sterk op grote bedrijven en expats"
 similarBooks:
-  - "No Rules Rules — Reed Hastings & Erin Meyer"
-  - "Cultures and Organizations — Geert Hofstede"
-  - "When Cultures Collide — Richard Lewis"
-  - "The Silent Language — Edward T. Hall"
+  - "No Rules Rules, Reed Hastings & Erin Meyer"
+  - "Cultures and Organizations, Geert Hofstede"
+  - "When Cultures Collide, Richard Lewis"
+  - "The Silent Language, Edward T. Hall"
 scores:
   practicalValue: 9
   readability: 9
@@ -42,7 +42,7 @@ scores:
   beginnerFriendly: 8
 lessons:
   - title: "Communiceren: low-context vs. high-context"
-    description: "Nederlanders zijn expliciet; Japanners impliciet. Wat in Amsterdam duidelijk klinkt, kan in Tokio onbegrijpelijk zijn — en andersom is wat in Tokio helder is, in Amsterdam raadselachtig."
+    description: "Nederlanders zijn expliciet; Japanners impliciet. Wat in Amsterdam duidelijk klinkt, kan in Tokio onbegrijpelijk zijn, en andersom is wat in Tokio helder is, in Amsterdam raadselachtig."
   - title: "Feedback: direct negatief vs. zacht-ingepakt"
     description: "Een Nederlandse 'dit klopt niet' en een Britse 'this is quite interesting' kunnen exact hetzelfde betekenen. Wie de vertaling niet kent, mist óf de boodschap, óf de emotie."
   - title: "Leiderschap: egalitair vs. hiërarchisch"
@@ -54,7 +54,7 @@ lessons:
   - title: "Confronteren: openlijk vs. vermijdend"
     description: "Een debat dat in Parijs energiek voelt, kan in Seoul als persoonlijke aanval landen. Weten wat confrontatie betekent in de cultuur waar je werkt, is cruciaal."
   - title: "Plannen: lineair vs. flexibel"
-    description: "Duitse vergaderingen starten op tijd en volgen de agenda. Nigeriaanse vergaderingen zijn elastisch. Geen van beide is beter — maar verwachtingen afstemmen voorkomt wrijving."
+    description: "Duitse vergaderingen starten op tijd en volgen de agenda. Nigeriaanse vergaderingen zijn elastisch. Geen van beide is beter, maar verwachtingen afstemmen voorkomt wrijving."
   - title: "Overtuigen: principe-eerst vs. toepassing-eerst"
     description: "Latijnse managers willen eerst de onderliggende theorie, Angelsaksen willen eerst de praktische toepassing. Dezelfde PowerPoint werkt niet in allebei."
 affiliate:
@@ -63,9 +63,9 @@ affiliate:
 
 ## Waar gaat dit boek over?
 
-Erin Meyer is hoogleraar aan INSEAD en heeft met *The Culture Map* een raamwerk gebouwd dat internationaal is uitgegroeid tot standaardwerk. De stelling is tegelijk eenvoudig en diepgaand: cultuur is niet alleen voelbaar, het is meetbaar. Aan de hand van acht dimensies — van communicatie en feedback tot besluitvorming en tijdsperceptie — plaatst Meyer landen op een relatieve schaal.
+Erin Meyer is hoogleraar aan INSEAD en heeft met *The Culture Map* een raamwerk gebouwd dat internationaal is uitgegroeid tot standaardwerk. De stelling is tegelijk eenvoudig en diepgaand: cultuur is niet alleen voelbaar, het is meetbaar. Aan de hand van acht dimensies, van communicatie en feedback tot besluitvorming en tijdsperceptie, plaatst Meyer landen op een relatieve schaal.
 
-De waarde zit niet alleen in de analyse, maar in het relatieve karakter van het model. Een Nederlander die met Amerikanen werkt, ervaart die Amerikanen als indirect. Dezelfde Nederlander die met Japanners werkt, lijkt ineens zelf bruut direct. Dát inzicht — dat je eigen cultuur je blinde vlek is — is de belangrijkste les van het boek.
+De waarde zit niet alleen in de analyse, maar in het relatieve karakter van het model. Een Nederlander die met Amerikanen werkt, ervaart die Amerikanen als indirect. Dezelfde Nederlander die met Japanners werkt, lijkt ineens zelf bruut direct. Dát inzicht, dat je eigen cultuur je blinde vlek is, is de belangrijkste les van het boek.
 
 Het boek bestaat in het Nederlands (Business Contact) én in het Engels. Op de Managementboek Top 100 staan beide edities vaak los op verschillende posities; de inhoud is identiek.
 
@@ -85,7 +85,7 @@ Teams die dagelijks cross-cultureel werken kunnen de acht schalen gebruiken als 
 
 ## Sterke punten
 
-Het boek blijft na tien jaar relevant omdat het model scherp en werkbaar is. Meyer combineert onderzoek met storytelling — zakelijke anekdotes die je bijblijven en je helpen patronen te herkennen.
+Het boek blijft na tien jaar relevant omdat het model scherp en werkbaar is. Meyer combineert onderzoek met storytelling, zakelijke anekdotes die je bijblijven en je helpen patronen te herkennen.
 
 ## Zwakke punten
 

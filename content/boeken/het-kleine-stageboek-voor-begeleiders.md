@@ -11,7 +11,7 @@ categories:
   - "Leren en ontwikkelen"
   - "Onderwijs"
 publishedAt: "2026-04-10"
-excerpt: "Maarten Brand geeft stagebegeleiders in bedrijven en organisaties een compacte gids om stages beter te laten verlopen — voor de stagiair, voor de begeleider en voor het team. Meer grip, minder gedoe, en stages die werkelijk iets toevoegen."
+excerpt: "Maarten Brand geeft stagebegeleiders in bedrijven en organisaties een compacte gids om stages beter te laten verlopen, voor de stagiair, voor de begeleider en voor het team. Meer grip, minder gedoe, en stages die werkelijk iets toevoegen."
 coreIdea: "Stages mislukken zelden door de stagiair. Ze mislukken doordat begeleiders geen tijd krijgen, geen structuur hanteren en te weinig kaders meegeven. Een paar simpele afspraken maken het verschil tussen frustratie en waarde."
 forWhom:
   - "Stagebegeleiders in bedrijven en organisaties"
@@ -23,7 +23,7 @@ notForWhom:
   - "Stagiairs zelf (ander perspectief)"
   - "Organisaties die geen stagiaires betrekken"
 strongPoints:
-  - "Compact en praktisch — binnen een middag gelezen"
+  - "Compact en praktisch, binnen een middag gelezen"
   - "Concrete templates en gesprekskaders"
   - "Aandacht voor zowel leeropbrengst als bedrijfsbelang"
 weakPoints:
@@ -31,9 +31,9 @@ weakPoints:
   - "Niet elk praktijkvoorbeeld past bij elke sector"
   - "Weinig over hybride of deeltijd-stagevormen"
 similarBooks:
-  - "The Mentor's Guide — Lois Zachary"
-  - "Begeleiden met impact — Joris Welsen"
-  - "The Coaching Habit — Michael Bungay Stanier"
+  - "The Mentor's Guide, Lois Zachary"
+  - "Begeleiden met impact, Joris Welsen"
+  - "The Coaching Habit, Michael Bungay Stanier"
 scores:
   practicalValue: 9
   readability: 9
@@ -43,7 +43,7 @@ lessons:
   - title: "Verwachtingen maken het verschil"
     description: "De eerste week bepaalt vaak of een stage slaagt. Heldere verwachtingen over uren, werk, rapportage en beschikbaarheid voorkomen 80% van de latere problemen."
   - title: "Structurele check-ins zijn geen luxe"
-    description: "Een vast wekelijks gesprek van een half uur is geen overhead — het is het enige moment waarop je echt vinger aan de pols houdt. Inplannen en vasthouden."
+    description: "Een vast wekelijks gesprek van een half uur is geen overhead, het is het enige moment waarop je echt vinger aan de pols houdt. Inplannen en vasthouden."
   - title: "Feedback op het proces, niet alleen op het werk"
     description: "Stagiairs leren meer van reflectie op hoe ze werkten dan van kritiek op wat ze leverden. Vraag naar keuzes en overwegingen, niet alleen naar resultaten."
   - title: "Bewaak de balans leren en opleveren"
@@ -56,7 +56,7 @@ affiliate:
 
 *Het kleine stageboek voor begeleiders* is precies wat de titel belooft: een compacte gids voor iedereen die in een organisatie stagiaires begeleidt. Maarten Brand bespreekt het vaak onderbelichte perspectief van de begeleider: iemand die de begeleiding er meestal bij doet en zelden echt getraind is voor de rol.
 
-Brand laat zien dat goede stagebegeleiding geen extra vak hoeft te zijn, maar wel goede vaardigheden vraagt: verwachtingen afstemmen, feedback geven, leerdoelen bewaken, en een stagiair productief én ontwikkelend aan het werk zetten. Het boek is bewust kort gehouden — een praktische checklist- en gesprekssjablonen-benadering.
+Brand laat zien dat goede stagebegeleiding geen extra vak hoeft te zijn, maar wel goede vaardigheden vraagt: verwachtingen afstemmen, feedback geven, leerdoelen bewaken, en een stagiair productief én ontwikkelend aan het werk zetten. Het boek is bewust kort gehouden, een praktische checklist- en gesprekssjablonen-benadering.
 
 ## Praktische toepassing
 

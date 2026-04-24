@@ -13,7 +13,7 @@ categories:
   - "Compliance"
 publishedAt: "2026-04-12"
 excerpt: "Van Brakel en Koedijk schreven het eerste Nederlandstalige praktische boek over veilig samenwerken met AI. Voor leiders, ondernemers, bestuurders en professionals die AI willen inzetten zonder juridische, ethische of operationele brokken."
-coreIdea: "AI in je organisatie is niet alleen een kans — het is ook een risico dat je actief moet managen. Veilig werken met AI vraagt om kaders, afspraken en training, niet alleen om enthousiasme."
+coreIdea: "AI in je organisatie is niet alleen een kans, het is ook een risico dat je actief moet managen. Veilig werken met AI vraagt om kaders, afspraken en training, niet alleen om enthousiasme."
 forWhom:
   - "Bestuurders en directeuren die AI-beleid moeten maken"
   - "IT-, compliance- en security-verantwoordelijken"
@@ -32,10 +32,10 @@ weakPoints:
   - "Weinig diepte over enterprise-integratie of data-architectuur"
   - "Voor ervaren security-professionals soms te algemeen"
 similarBooks:
-  - "Co-intelligentie — Ethan Mollick"
-  - "The AI-Driven Leader — Geoff Woods"
-  - "This is not AI — Sanne Cornelissen"
-  - "Weapons of Math Destruction — Cathy O'Neil"
+  - "Co-intelligentie, Ethan Mollick"
+  - "The AI-Driven Leader, Geoff Woods"
+  - "This is not AI, Sanne Cornelissen"
+  - "Weapons of Math Destruction, Cathy O'Neil"
 scores:
   practicalValue: 9
   readability: 9
@@ -47,7 +47,7 @@ lessons:
   - title: "Data die je in AI stopt, kan niet meer terug"
     description: "Wat een medewerker in een publieke chatbot plakt, kan ergens anders weer opduiken. Het onderscheid tussen openbare, interne en vertrouwelijke informatie moet ingebakken zijn in gedrag, niet alleen in documenten."
   - title: "AI-fouten zijn vaak niet-zichtbaar"
-    description: "Halucinaties, vooringenomenheid, verkeerde bronnen — veel AI-fouten valllen niet op als je niet expliciet toetst. Bouw controles in voordat AI-output doorstroomt naar klanten of beslissingen."
+    description: "Halucinaties, vooringenomenheid, verkeerde bronnen, veel AI-fouten valllen niet op als je niet expliciet toetst. Bouw controles in voordat AI-output doorstroomt naar klanten of beslissingen."
   - title: "Training is belangrijker dan tools"
     description: "Elke medewerker die AI gebruikt moet weten wat wel en niet mag. Dat is geen technisch onderwerp maar een organisatiegedragsopgave."
 affiliate:
@@ -58,7 +58,7 @@ affiliate:
 
 Arko van Brakel en Erik-Jan Koedijk vullen met *HELP! Mijn chatbot wil opslag* een belangrijke leegte in de Nederlandse AI-literatuur: een praktisch, toegankelijk boek over de **risico- en kaderkant** van AI-gebruik in organisaties. Waar veel boeken zich richten op mogelijkheden en prompts, nemen deze auteurs de rol van leiders serieus: je moet niet alleen weten wát AI kan, maar ook hoe je het veilig laat gebeuren.
 
-De titel verwijst naar een herkenbaar scenario: een enthousiaste medewerker die vertrouwelijke data in een publieke chatbot plakt, zonder te beseffen dat die data daarmee mogelijk in het model belandt. Dat soort situaties komt dagelijks voor — de vraag is niet of je iets overkomt, maar of je er iets aan doet.
+De titel verwijst naar een herkenbaar scenario: een enthousiaste medewerker die vertrouwelijke data in een publieke chatbot plakt, zonder te beseffen dat die data daarmee mogelijk in het model belandt. Dat soort situaties komt dagelijks voor, de vraag is niet of je iets overkomt, maar of je er iets aan doet.
 
 ## Praktische toepassing
 

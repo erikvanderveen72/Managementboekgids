@@ -6,7 +6,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://managementboekgids.nl"),
   title: {
-    default: "Managementboekgids — De beste managementboeken van Nederland",
+    default: "Managementboekgids, De beste managementboeken van Nederland",
     template: "%s · Managementboekgids",
   },
   description:

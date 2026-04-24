@@ -31,10 +31,10 @@ weakPoints:
   - "Weinig aandacht voor cultuur en machtsdynamiek"
   - "Voor grote corporate transformaties iets te eenvoudig"
 similarBooks:
-  - "Leading Change — John Kotter"
-  - "Veranderen voor de toekomst — Boonstra & Dubbeldam"
-  - "Switch — Chip & Dan Heath"
-  - "Immunity to Change — Kegan & Lahey"
+  - "Leading Change, John Kotter"
+  - "Veranderen voor de toekomst, Boonstra & Dubbeldam"
+  - "Switch, Chip & Dan Heath"
+  - "Immunity to Change, Kegan & Lahey"
 scores:
   practicalValue: 9
   readability: 9

@@ -31,10 +31,10 @@ weakPoints:
   - "Voor grote corporates iets te gestileerd"
   - "Weinig aandacht voor macht en persoonlijke dynamiek"
 similarBooks:
-  - "The Five Dysfunctions of a Team — Patrick Lencioni"
-  - "De vier gekkies in je MT — Robin van Lohuizen"
-  - "Team of Teams — Stanley McChrystal"
-  - "High Output Management — Andy Grove"
+  - "The Five Dysfunctions of a Team, Patrick Lencioni"
+  - "De vier gekkies in je MT, Robin van Lohuizen"
+  - "Team of Teams, Stanley McChrystal"
+  - "High Output Management, Andy Grove"
 scores:
   practicalValue: 8
   readability: 8
@@ -42,7 +42,7 @@ scores:
   beginnerFriendly: 8
 lessons:
   - title: "Richting is meer dan strategie"
-    description: "Een MT dat geen gedeelde richting heeft, produceert ruis. Richting ontstaat niet uit het strategieplan, maar uit de gesprekken daaromheen — en uit consequent gedrag erachter."
+    description: "Een MT dat geen gedeelde richting heeft, produceert ruis. Richting ontstaat niet uit het strategieplan, maar uit de gesprekken daaromheen, en uit consequent gedrag erachter."
   - title: "Verbinding is geen teambuilding"
     description: "Echte verbinding is het vermogen om elkaar professioneel tegen te spreken zonder de relatie te beschadigen. Dat vraagt oefening én cultuur."
   - title: "Uitvoering is waar meeste MT's falen"
@@ -55,7 +55,7 @@ affiliate:
 
 ## Waar gaat dit boek over?
 
-Steven van den Heuvel heeft jarenlang MT's gecoacht en bundelt zijn observaties in een bruikbaar drie-pijlers-model: **richting**, **verbinding** en **uitvoering**. Het model is niet revolutionair — vergelijkbare decompositions bestaan in de literatuur — maar de kracht van dit boek zit in de Nederlandse toepassing en de praktische diagnose-instrumenten.
+Steven van den Heuvel heeft jarenlang MT's gecoacht en bundelt zijn observaties in een bruikbaar drie-pijlers-model: **richting**, **verbinding** en **uitvoering**. Het model is niet revolutionair, vergelijkbare decompositions bestaan in de literatuur, maar de kracht van dit boek zit in de Nederlandse toepassing en de praktische diagnose-instrumenten.
 
 De kernstelling: MT's falen zelden op één pijler. Ze falen omdat een zwakke pijler de andere twee uitholt. Een MT met scherpe uitvoering maar zonder gedeelde richting levert operationele excellentie op waar niemand echt blij van wordt. Een MT met diepe verbinding maar zwakke uitvoering vergadert zich de tering zonder dat er iets gebeurt.
 
@@ -67,6 +67,6 @@ Voor directeuren en MT-voorzitters biedt het boek een heldere diagnose-route. Wa
 
 **Koop dit boek als** je een klein of middelgroot MT leidt en voelt dat er iets structureel niet loopt, zonder goed te kunnen benoemen wat.
 
-**Sla dit boek over als** je Lencioni's *Five Dysfunctions* al grondig hebt verwerkt — het overlapt deels.
+**Sla dit boek over als** je Lencioni's *Five Dysfunctions* al grondig hebt verwerkt, het overlapt deels.
 
 > **Transparantie:** Deze bespreking is geschreven op basis van openbare bronnen. We werken de pagina binnenkort bij met onze volledige analyse na complete lezing.

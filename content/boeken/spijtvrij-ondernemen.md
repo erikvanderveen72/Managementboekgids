@@ -12,11 +12,11 @@ categories:
   - "Mentale gezondheid"
 publishedAt: "2026-04-23"
 excerpt: "Emma Hafkamp vertelt welke lessen over succes, relaties en eigen waarde pas doordringen als het bijna te laat is. Spijtvrij ondernemen is geen klassiek businessboek maar een indringende reflectie, verpakt in zeven lessen voor een leven dat jóú dient, niet andersom."
-coreIdea: "Je hoeft niet te wachten op een crisis, diagnose of burn-out om te beseffen wat er écht belangrijk is. De lessen van 'spijt achteraf' zijn nu al beschikbaar — als je ze onder ogen durft te komen."
+coreIdea: "Je hoeft niet te wachten op een crisis, diagnose of burn-out om te beseffen wat er écht belangrijk is. De lessen van 'spijt achteraf' zijn nu al beschikbaar, als je ze onder ogen durft te komen."
 forWhom:
   - "Ondernemers die druk voelen maar zich afvragen waar het naartoe gaat"
   - "Professionals met een bloeiende carrière en een onrustig gevoel"
-  - "Mensen rond een keerpunt: 35, 45, 55 — wat wil ik de volgende fase?"
+  - "Mensen rond een keerpunt: 35, 45, 55, wat wil ik de volgende fase?"
   - "Lezers die houden van persoonlijke reflectie boven harde managementrecepten"
 notForWhom:
   - "Wie op zoek is naar strategie, financiën of operationeel advies"
@@ -31,10 +31,10 @@ weakPoints:
   - "Sommige lessen zijn bekend uit de bredere reflectie-literatuur"
   - "Weinig zakelijke voorbeelden uit grote organisaties"
 similarBooks:
-  - "The Top Five Regrets of the Dying — Bronnie Ware"
-  - "Essentialism — Greg McKeown"
-  - "Het bijna-boek — Gerrit-Jan Koopman"
-  - "Vier duizend weken — Oliver Burkeman"
+  - "The Top Five Regrets of the Dying, Bronnie Ware"
+  - "Essentialism, Greg McKeown"
+  - "Het bijna-boek, Gerrit-Jan Koopman"
+  - "Vier duizend weken, Oliver Burkeman"
 scores:
   practicalValue: 7
   readability: 9
@@ -67,7 +67,7 @@ Het boek is primair geschreven voor ondernemers, en de lessen resoneren het ster
 
 ### Voor professionals in keerpunten
 
-Voor wie niet ondernemer is, maar wel op een keerpunt staat — promotie, scheiding, verlies, nieuwe fase — is het boek een goede aanleiding om te onderzoeken welke aannames je bent blijven gebruiken terwijl ze allang niet meer kloppen.
+Voor wie niet ondernemer is, maar wel op een keerpunt staat, promotie, scheiding, verlies, nieuwe fase, is het boek een goede aanleiding om te onderzoeken welke aannames je bent blijven gebruiken terwijl ze allang niet meer kloppen.
 
 ### Voor leiders
 

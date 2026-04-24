@@ -34,15 +34,15 @@ Dit maakt `content/boeken/<slug>.md` aan met een lege template.
 Elke boekpagina wordt volledig gedreven door de frontmatter en de markdown body. Vaste velden:
 
 - `title`, `subtitle`, `authors`, `publisher`, `year`, `pages`
-- `categories`: lijst — bepaalt automatisch de categorie-pagina's
-- `publishedAt`: `YYYY-MM-DD` — sorteert de homepage en overzichten
+- `categories`: lijst, bepaalt automatisch de categorie-pagina's
+- `publishedAt`: `YYYY-MM-DD`, sorteert de homepage en overzichten
 - `excerpt`: korte samenvatting (1-2 zinnen) voor cards en meta-description
 - `coreIdea`: één zin die de kernboodschap vangt
 - `forWhom` / `notForWhom`: doelgroep-bullets
 - `strongPoints` / `weakPoints`: evaluatie-bullets
 - `similarBooks`: lijst met titels
 - `scores`: 0-10 op vier assen
-- `lessons`: lijst met `{ title, description }` — de belangrijkste lessen
+- `lessons`: lijst met `{ title, description }`, de belangrijkste lessen
 - `affiliate.managementboek`: URL naar de Managementboek.nl-pagina
 - `coverImage`: URL of pad naar de boekcover. Externe URL (`https://...`) werkt direct, of plaats een lokaal bestand in `public/covers/<isbn>.jpg` en verwijs via `/covers/<isbn>.jpg`
 
@@ -56,14 +56,14 @@ In de markdown body schrijf je de eigenlijke bespreking. Vaste secties:
 - Zwakke punten
 - Mijn oordeel
 
-Houd de verhouding: ±25% samenvatting, ±30% toepassing, ±20% kritiek, ±15% vergelijking, ±10% koopadvies. Nooit hele hoofdstukken navertellen — de pagina is een **gids bij het boek**, geen vervanging.
+Houd de verhouding: ±25% samenvatting, ±30% toepassing, ±20% kritiek, ±15% vergelijking, ±10% koopadvies. Nooit hele hoofdstukken navertellen, de pagina is een **gids bij het boek**, geen vervanging.
 
 ## Contentprincipes
 
 1. **Altijd eigen woorden.** Geen gekopieerde samenvattingen.
-2. **Korte, functionele citaten** — nooit langer dan strikt nodig.
-3. **Concrete toepassing toevoegen** — anders is het geen gids.
-4. **Eerlijke beoordeling** — ook boeken afraden die niet bij de lezer passen.
+2. **Korte, functionele citaten**, nooit langer dan strikt nodig.
+3. **Concrete toepassing toevoegen**, anders is het geen gids.
+4. **Eerlijke beoordeling**, ook boeken afraden die niet bij de lezer passen.
 5. **Affiliate links duidelijk labelen** (`rel="nofollow sponsored"` gebeurt automatisch).
 
 ## Affiliate-configuratie

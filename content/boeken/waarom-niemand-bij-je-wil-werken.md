@@ -12,7 +12,7 @@ categories:
   - "Employer Branding"
 publishedAt: "2026-04-09"
 excerpt: "Jesse Geul schrijft met droge humor en scherpe observatie over wat er misgaat in de moderne recruitment. Waarom kandidaten afhaken, waarom vacatureteksten niet werken, en waarom de meeste employer branding-campagnes geld zijn dat je beter had kunnen besteden aan een goede eerste werkdag."
-coreIdea: "Recruitment faalt zelden door de markt. Het faalt door slechte vacatures, slechte processen en een zelfbeeld dat niet klopt. Kandidaten hebben keuze — wie keuze negeert, krijgt niemand."
+coreIdea: "Recruitment faalt zelden door de markt. Het faalt door slechte vacatures, slechte processen en een zelfbeeld dat niet klopt. Kandidaten hebben keuze, wie keuze negeert, krijgt niemand."
 forWhom:
   - "HR- en recruitmentverantwoordelijken"
   - "Managers die actief werven"
@@ -31,9 +31,9 @@ weakPoints:
   - "Minder aandacht voor wervingsstrategie op lange termijn"
   - "Sommige adviezen zijn bekend uit kwalitatief recruitment-blog-materiaal"
 similarBooks:
-  - "Recruiting Rockstars — Jeff Hyman"
-  - "Work Rules! — Laszlo Bock"
-  - "Hiring for Attitude — Mark Murphy"
+  - "Recruiting Rockstars, Jeff Hyman"
+  - "Work Rules!, Laszlo Bock"
+  - "Hiring for Attitude, Mark Murphy"
 scores:
   practicalValue: 9
   readability: 9

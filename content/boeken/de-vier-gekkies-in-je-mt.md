@@ -31,10 +31,10 @@ weakPoints:
   - "Archetypes zijn bewust generalisaties"
   - "Vertaling naar grote corporates soms vlakker"
 similarBooks:
-  - "The Five Dysfunctions of a Team — Patrick Lencioni"
-  - "Immunity to Change — Kegan & Lahey"
-  - "Turning the Flywheel — Jim Collins"
-  - "Overcoming the Five Dysfunctions of a Team — Patrick Lencioni"
+  - "The Five Dysfunctions of a Team, Patrick Lencioni"
+  - "Immunity to Change, Kegan & Lahey"
+  - "Turning the Flywheel, Jim Collins"
+  - "Overcoming the Five Dysfunctions of a Team, Patrick Lencioni"
 scores:
   practicalValue: 8
   readability: 9
@@ -43,12 +43,12 @@ scores:
 lessons:
   - title: "Herken het gekkie in jezelf eerst"
     description: "De archetypes zijn geen collega-analyses maar zelfanalyses. Wie alleen de anderen ziet en niet zichzelf, mist de boodschap volledig."
-  - title: "Gekkies vullen elkaar aan — en blokkeren elkaar"
+  - title: "Gekkies vullen elkaar aan, en blokkeren elkaar"
     description: "Elk MT heeft meerdere archetypes, en hun dynamiek is wat het team werkt of niet werkt. Snap de chemie, niet alleen de individuen."
   - title: "De afstand wordt in het MT zelf gemaakt"
     description: "Medewerkers op de werkvloer voelen haarfijn aan welke spelletjes zich in de directiekamer afspelen. De ruis ontstaat daar, niet onderweg."
   - title: "Gedrag benoemen is niet hetzelfde als mensen wegzetten"
-    description: "Goed leiderschap leert onderscheid maken tussen gedrag bespreken en iemand afserveren. Dat vraagt oefening — en een cultuur waarin het mag."
+    description: "Goed leiderschap leert onderscheid maken tussen gedrag bespreken en iemand afserveren. Dat vraagt oefening, en een cultuur waarin het mag."
 affiliate:
   managementboek: "https://www.managementboek.nl/zoeken?zoekterm=vier+gekkies+mt+lohuizen"
 ---
@@ -57,7 +57,7 @@ affiliate:
 
 Robin van Lohuizen beschrijft met herkenbare ironie de vier archetypes die in bijna elk managementteam terug te vinden zijn. Het boek is tegelijk een diagnostisch instrument en een spiegel: welk gekkie ben jij, en welke combinaties in je team verklaren waarom vergaderingen maar niet opschieten en besluiten niet beklijven?
 
-De onderliggende boodschap is ernstig, ondanks de toon. De kloof tussen directiekamer en werkvloer — het favoriete klaagonderwerp van bijna elke organisatie — ontstaat niet door slechte communicatie. Hij ontstaat door gedrag in het MT zelf: blinde vlekken, ongezegd machtsspel, onbesproken rolverdeling.
+De onderliggende boodschap is ernstig, ondanks de toon. De kloof tussen directiekamer en werkvloer, het favoriete klaagonderwerp van bijna elke organisatie, ontstaat niet door slechte communicatie. Hij ontstaat door gedrag in het MT zelf: blinde vlekken, ongezegd machtsspel, onbesproken rolverdeling.
 
 ## Praktische toepassing
 
@@ -75,7 +75,7 @@ HR- en organisatieontwikkeling-professionals krijgen vocabulaire om MT-coaching 
 
 ## Sterke punten
 
-De humor maakt het leesbaar, maar de observaties zijn serieus. Van Lohuizen lijkt de MT's die hij beschrijft van binnenuit te kennen — de voorbeelden zijn pijnlijk concreet.
+De humor maakt het leesbaar, maar de observaties zijn serieus. Van Lohuizen lijkt de MT's die hij beschrijft van binnenuit te kennen, de voorbeelden zijn pijnlijk concreet.
 
 ## Zwakke punten
 

@@ -11,7 +11,7 @@ categories:
   - "Artificial Intelligence"
   - "SEO"
 publishedAt: "2026-04-20"
-excerpt: "Generative Engine Optimization (GEO) is het nieuwe speelveld waarin SEO, copywriting, branding en PR samenkomen. Martin van Kranenburg beschrijft hoe merken ervoor zorgen dat ze worden genoemd in antwoorden van ChatGPT, Gemini en andere taalmodellen — en waarom dat een andere discipline vraagt dan klassieke zoekmachine-optimalisatie."
+excerpt: "Generative Engine Optimization (GEO) is het nieuwe speelveld waarin SEO, copywriting, branding en PR samenkomen. Martin van Kranenburg beschrijft hoe merken ervoor zorgen dat ze worden genoemd in antwoorden van ChatGPT, Gemini en andere taalmodellen, en waarom dat een andere discipline vraagt dan klassieke zoekmachine-optimalisatie."
 coreIdea: "Bij Google concurreer je om een klikbare link. Bij taalmodellen concurreer je om een zin in het antwoord. Dat vraagt niet om trucjes, maar om inhoud die autoritatief, citeerbaar en goed gestructureerd is."
 forWhom:
   - "Marketeers en contentstrategen"
@@ -31,10 +31,10 @@ weakPoints:
   - "Weinig aandacht voor meetbaarheid en attributie van GEO-effecten"
   - "Sommige technieken zijn speculatief tot meer data beschikbaar komt"
 similarBooks:
-  - "ChatGPT als tweede brein — Martin van Kranenburg"
-  - "They Ask, You Answer — Marcus Sheridan"
-  - "Content Inc. — Joe Pulizzi"
-  - "The AI-Driven Leader — Geoff Woods"
+  - "ChatGPT als tweede brein, Martin van Kranenburg"
+  - "They Ask, You Answer, Marcus Sheridan"
+  - "Content Inc., Joe Pulizzi"
+  - "The AI-Driven Leader, Geoff Woods"
 scores:
   practicalValue: 8
   readability: 9
@@ -71,7 +71,7 @@ Kleine ondernemers die klanten krijgen via Google zien hun verkeer al afbrokkele
 
 ### Voor PR- en merkprofessionals
 
-Waar PR en SEO lange tijd aparte disciplines waren, smelten ze in GEO samen. Genoemd worden in autoritatieve bronnen — van vakmedia tot Wikipedia — wordt weer een rechtstreekse hefboom voor commerciële zichtbaarheid.
+Waar PR en SEO lange tijd aparte disciplines waren, smelten ze in GEO samen. Genoemd worden in autoritatieve bronnen, van vakmedia tot Wikipedia, wordt weer een rechtstreekse hefboom voor commerciële zichtbaarheid.
 
 ## Sterke punten
 

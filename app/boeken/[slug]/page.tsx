@@ -25,10 +25,10 @@ export async function generateMetadata({
   const book = await getBook(slug);
   if (!book) return {};
   return {
-    title: `${book.title} — samenvatting, review en belangrijkste lessen`,
+    title: `${book.title}, samenvatting, review en belangrijkste lessen`,
     description: book.excerpt,
     openGraph: {
-      title: `${book.title} — Managementboekgids`,
+      title: `${book.title}, Managementboekgids`,
       description: book.excerpt,
       type: "article",
     },
@@ -159,7 +159,7 @@ export default async function BookPage({
                   <h3 className="font-serif text-lg">Wel geschikt voor</h3>
                   <ul className="mt-3 space-y-2 text-ink-soft">
                     {book.forWhom.map((x) => (
-                      <li key={x}>— {x}</li>
+                      <li key={x}>: {x}</li>
                     ))}
                   </ul>
                 </div>
@@ -169,7 +169,7 @@ export default async function BookPage({
                   <h3 className="font-serif text-lg">Minder geschikt voor</h3>
                   <ul className="mt-3 space-y-2 text-ink-soft">
                     {book.notForWhom.map((x) => (
-                      <li key={x}>— {x}</li>
+                      <li key={x}>: {x}</li>
                     ))}
                   </ul>
                 </div>
@@ -207,7 +207,7 @@ export default async function BookPage({
               <h3 className="font-serif text-lg">Vergelijkbare boeken</h3>
               <ul className="mt-3 space-y-1 text-ink-soft">
                 {book.similarBooks.map((x) => (
-                  <li key={x}>— {x}</li>
+                  <li key={x}>: {x}</li>
                 ))}
               </ul>
             </section>

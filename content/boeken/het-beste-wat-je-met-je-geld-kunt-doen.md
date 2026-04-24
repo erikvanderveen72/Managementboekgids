@@ -11,7 +11,7 @@ categories:
   - "Persoonlijke ontwikkeling"
   - "Filantropie"
 publishedAt: "2026-04-13"
-excerpt: "Bram Schaper, bekend van het effectief-altruïsme-gedachtegoed in Nederland, legt uit waarom de meeste goede doelen veel minder opleveren dan vergelijkbare alternatieven — en hoe je met dezelfde donatie tientallen keren meer impact kunt maken. Met een voorwoord van Rutger Bregman."
+excerpt: "Bram Schaper, bekend van het effectief-altruïsme-gedachtegoed in Nederland, legt uit waarom de meeste goede doelen veel minder opleveren dan vergelijkbare alternatieven, en hoe je met dezelfde donatie tientallen keren meer impact kunt maken. Met een voorwoord van Rutger Bregman."
 coreIdea: "Geven is een instrument, geen gebaar. Wie kiest voor goede doelen op basis van bewezen effectiviteit, redt met dezelfde euro's veel meer levens of verbetert ze fundamenteler dan wie kiest op basis van emotie of herkenbaarheid."
 forWhom:
   - "Ondernemers en professionals die iets terug willen doen"
@@ -31,10 +31,10 @@ weakPoints:
   - "Effectief-altruïsme heeft ook kritiek die beperkt ter sprake komt"
   - "Keuzes worden soms wel heel kwantitatief gemaakt"
 similarBooks:
-  - "Doing Good Better — William MacAskill"
-  - "The Life You Can Save — Peter Singer"
-  - "Gewoon goed doen — Rutger Bregman"
-  - "Reinventing Philanthropy — Eric Friedman"
+  - "Doing Good Better, William MacAskill"
+  - "The Life You Can Save, Peter Singer"
+  - "Gewoon goed doen, Rutger Bregman"
+  - "Reinventing Philanthropy, Eric Friedman"
 scores:
   practicalValue: 8
   readability: 8
@@ -46,7 +46,7 @@ lessons:
   - title: "Effectiviteit verschilt honderden keren"
     description: "Twee goede doelen die hetzelfde probleem aanpakken, kunnen per euro honderden keren in impact verschillen. Dat is geen detail maar een gigantisch verschil in geredde levens of verbeterde jaren."
   - title: "Onderzoek is beschikbaar"
-    description: "Organisaties als GiveWell doen systematisch impact-onderzoek naar goede doelen. Een paar uur vergelijken geeft je donatie een veelvoud aan impact — permanent."
+    description: "Organisaties als GiveWell doen systematisch impact-onderzoek naar goede doelen. Een paar uur vergelijken geeft je donatie een veelvoud aan impact, permanent."
   - title: "Geven is ook een persoonlijk keuzeonderwerp"
     description: "Effectiviteit is cruciaal, maar zingeving en persoonlijke betrokkenheid ook. Een goed gevensplan combineert rationeel kiezen met ruimte voor eigen emotionele verbinding."
 affiliate:
@@ -55,9 +55,9 @@ affiliate:
 
 ## Waar gaat dit boek over?
 
-Bram Schaper vertaalt het effectief-altruïsme-denken — wereldwijd bekend van MacAskill, Singer en Ord — naar de Nederlandse context. Het boek stelt een ongemakkelijke maar belangrijke vraag: geef je je geld aan goede doelen op basis van wat goed voelt, of op basis van wat daadwerkelijk het meeste goed doet?
+Bram Schaper vertaalt het effectief-altruïsme-denken, wereldwijd bekend van MacAskill, Singer en Ord, naar de Nederlandse context. Het boek stelt een ongemakkelijke maar belangrijke vraag: geef je je geld aan goede doelen op basis van wat goed voelt, of op basis van wat daadwerkelijk het meeste goed doet?
 
-Het verschil is niet klein. Onderzoek van GiveWell en andere impact-evaluatoren laat zien dat de effectiefste goede doelen vaak 10 tot 100 keer meer doen per euro dan gemiddelde organisaties. Voor mensen die serieus willen geven — of dat nu 50 euro per maand is of een filantropisch fonds — is dat een verschil dat enorme impact heeft.
+Het verschil is niet klein. Onderzoek van GiveWell en andere impact-evaluatoren laat zien dat de effectiefste goede doelen vaak 10 tot 100 keer meer doen per euro dan gemiddelde organisaties. Voor mensen die serieus willen geven, of dat nu 50 euro per maand is of een filantropisch fonds, is dat een verschil dat enorme impact heeft.
 
 ## Praktische toepassing
 

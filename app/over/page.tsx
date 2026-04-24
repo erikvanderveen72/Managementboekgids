@@ -33,7 +33,7 @@ export default function AboutPage() {
             eigen analyse.
           </li>
           <li>
-            We citeren kort en functioneel — nooit hele hoofdstukken.
+            We citeren kort en functioneel, nooit hele hoofdstukken.
           </li>
           <li>
             We voegen altijd praktische toepassing, kritische beoordeling en
@@ -44,7 +44,7 @@ export default function AboutPage() {
         <p>
           Sommige links op deze site zijn affiliate links naar onder andere
           Managementboek.nl. Koop je via zo&apos;n link, dan ontvangen wij een
-          kleine vergoeding — jij betaalt niets extra. Dat helpt ons om deze
+          kleine vergoeding, jij betaalt niets extra. Dat helpt ons om deze
           site onafhankelijk en advertentievrij te houden. Meer hierover lees je
           in onze <a href="/affiliate">affiliate disclosure</a>.
         </p>

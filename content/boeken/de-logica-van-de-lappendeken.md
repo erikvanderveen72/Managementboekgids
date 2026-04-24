@@ -11,7 +11,7 @@ categories:
   - "Leiderschap"
   - "Samenwerking"
 publishedAt: "2026-04-16"
-excerpt: "Hans Vermaak — specialist in taaie vraagstukken — beschrijft hoe je werkt aan problemen die over organisaties, sectoren en belangen heen lopen. Vraagstukken die 'van iedereen en van niemand' zijn, vragen niet om één eigenaar, maar om verbindingswerk tussen vele partijen."
+excerpt: "Hans Vermaak, specialist in taaie vraagstukken, beschrijft hoe je werkt aan problemen die over organisaties, sectoren en belangen heen lopen. Vraagstukken die 'van iedereen en van niemand' zijn, vragen niet om één eigenaar, maar om verbindingswerk tussen vele partijen."
 coreIdea: "Veel maatschappelijke en organisatieproblemen hebben geen duidelijke eigenaar. Het echte werk is niet het oplossen van het probleem zelf, maar het bouwen van de lappendeken van relaties, afspraken en coalities waarbinnen het wél kán worden opgelost."
 forWhom:
   - "Programma- en projectleiders in multistakeholder-trajecten"
@@ -31,10 +31,10 @@ weakPoints:
   - "Minder geschikt voor lezers zonder systemische achtergrond"
   - "Overlappend met ander werk van Vermaak (plekken der moeite)"
 similarBooks:
-  - "Plekken der moeite — Hans Vermaak"
-  - "The Practice of Adaptive Leadership — Heifetz, Linsky & Grashow"
-  - "Getting to Maybe — Westley, Zimmerman & Patton"
-  - "Leading Change in Multiple Contexts — Gill Robinson Hickman"
+  - "Plekken der moeite, Hans Vermaak"
+  - "The Practice of Adaptive Leadership, Heifetz, Linsky & Grashow"
+  - "Getting to Maybe, Westley, Zimmerman & Patton"
+  - "Leading Change in Multiple Contexts, Gill Robinson Hickman"
 scores:
   practicalValue: 7
   readability: 7
@@ -42,7 +42,7 @@ scores:
   beginnerFriendly: 5
 lessons:
   - title: "Vraagstukken zonder eigenaar zijn het echte werk"
-    description: "De makkelijke problemen zijn allang binnen organisatiegrenzen opgelost. Wat overblijft is wat niemand alleen kan oplossen — en dat vraagt een ander soort werk."
+    description: "De makkelijke problemen zijn allang binnen organisatiegrenzen opgelost. Wat overblijft is wat niemand alleen kan oplossen, en dat vraagt een ander soort werk."
   - title: "Denk in lappendekens, niet in blauwdrukken"
     description: "Een perfect ontworpen samenwerkingsstructuur bestaat niet. Effectief verbindingswerk accepteert de asymmetrie: een patchwork van overeenstemmingen, tijdelijke coalities en kleine afspraken die samen beweging maken."
   - title: "Momentum bouwt zich op in fragmenten"
@@ -67,7 +67,7 @@ Voor wie werkt aan multistakeholder-opgaven is het boek direct waardevol. Niet o
 
 ### Voor bestuurders in sectoren met veel keten-afhankelijkheid
 
-Bestuurders in zorg, onderwijs, bouw, energie herkennen de dynamiek onmiddellijk. Het boek helpt om te aanvaarden dat sommige opgaven niet 'geleverd' worden, maar 'gewerkt' worden — en om je rol daarin scherper te maken.
+Bestuurders in zorg, onderwijs, bouw, energie herkennen de dynamiek onmiddellijk. Het boek helpt om te aanvaarden dat sommige opgaven niet 'geleverd' worden, maar 'gewerkt' worden, en om je rol daarin scherper te maken.
 
 ### Voor adviseurs
 

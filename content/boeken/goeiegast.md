@@ -12,8 +12,8 @@ categories:
   - "Leiderschap"
   - "Organisatiecultuur"
 publishedAt: "2026-04-22"
-excerpt: "Een Brabantse installateur uit Borkel en Schaft bouwt een bedrijf waar medewerkers én klanten enthousiast worden. Goeiegast vertelt hoe een 'doodgewone dorpsinstallateur' een verfrissend voorbeeld werd van ultieme medewerker- en klantgerichtheid — en wat andere ondernemers daarvan kunnen leren."
-coreIdea: "Je hoeft geen groot theoretisch concept te hebben om een buitengewoon bedrijf te bouwen. Het begint bij een simpele norm: 'Ik ben een goeiegast' — en het keihard waarmaken op elke dag, in elke ontmoeting."
+excerpt: "Een Brabantse installateur uit Borkel en Schaft bouwt een bedrijf waar medewerkers én klanten enthousiast worden. Goeiegast vertelt hoe een 'doodgewone dorpsinstallateur' een verfrissend voorbeeld werd van ultieme medewerker- en klantgerichtheid, en wat andere ondernemers daarvan kunnen leren."
+coreIdea: "Je hoeft geen groot theoretisch concept te hebben om een buitengewoon bedrijf te bouwen. Het begint bij een simpele norm: 'Ik ben een goeiegast', en het keihard waarmaken op elke dag, in elke ontmoeting."
 forWhom:
   - "MKB-ondernemers die richting zoeken voor hun bedrijfscultuur"
   - "Leidinggevenden in dienstverlening, installatie, bouw, retail"
@@ -30,12 +30,12 @@ strongPoints:
 weakPoints:
   - "Context is één bedrijf; vertaling naar andere sectoren vraagt eigen werk"
   - "Weinig kritische reflectie op de keerzijde van de sterke persoonsgebonden cultuur"
-  - "Vorm van 'n=1' — meer inspiratie dan systematisch bewijs"
+  - "Vorm van 'n=1', meer inspiratie dan systematisch bewijs"
 similarBooks:
-  - "Het verschil — Bas Verhart"
-  - "Een goed gesprek — Daniël Ofman"
-  - "Delivering Happiness — Tony Hsieh"
-  - "The Goal — Eliyahu Goldratt"
+  - "Het verschil, Bas Verhart"
+  - "Een goed gesprek, Daniël Ofman"
+  - "Delivering Happiness, Tony Hsieh"
+  - "The Goal, Eliyahu Goldratt"
 scores:
   practicalValue: 8
   readability: 9
@@ -56,9 +56,9 @@ affiliate:
 
 ## Waar gaat dit boek over?
 
-Martijn Verspeek runt een installatiebedrijf in Borkel en Schaft, een dorp van een paar duizend inwoners in Noord-Brabant. Wat het bijzonder maakt: zijn bedrijf heeft een reputatie voor medewerker- en klantgerichtheid die veel grotere organisaties niet voor elkaar krijgen. Samen met Eddy Buiting vertelt Verspeek hoe dat ontstond — niet met een consultant of een kernwaardensessie, maar met een simpele uitspraak: *ik ben een goeiegast*.
+Martijn Verspeek runt een installatiebedrijf in Borkel en Schaft, een dorp van een paar duizend inwoners in Noord-Brabant. Wat het bijzonder maakt: zijn bedrijf heeft een reputatie voor medewerker- en klantgerichtheid die veel grotere organisaties niet voor elkaar krijgen. Samen met Eddy Buiting vertelt Verspeek hoe dat ontstond, niet met een consultant of een kernwaardensessie, maar met een simpele uitspraak: *ik ben een goeiegast*.
 
-Die uitspraak werd een interne norm. Iedereen die bij het bedrijf werkt wordt geacht een *goeiegast* te zijn — voor collega's, voor klanten, voor leveranciers. Klinkt simpel. Lukt zelden. Het boek beschrijft waarom het hier wél lukt, wat het kost om die norm consistent te houden, en hoe andere ondernemers er iets van kunnen meenemen.
+Die uitspraak werd een interne norm. Iedereen die bij het bedrijf werkt wordt geacht een *goeiegast* te zijn, voor collega's, voor klanten, voor leveranciers. Klinkt simpel. Lukt zelden. Het boek beschrijft waarom het hier wél lukt, wat het kost om die norm consistent te houden, en hoe andere ondernemers er iets van kunnen meenemen.
 
 ## Praktische toepassing
 
@@ -76,7 +76,7 @@ HR-professionals vinden hier een ongebruikelijk voorbeeld van een employer brand
 
 ## Sterke punten
 
-Het boek leest prettig en is geschreven in de taal van de ondernemer zelf — geen jargon, geen framework-gedoe. Juist daardoor is het overdraagbaar: je krijgt niet het gevoel dat je iets exotisch probeert te kopiëren.
+Het boek leest prettig en is geschreven in de taal van de ondernemer zelf, geen jargon, geen framework-gedoe. Juist daardoor is het overdraagbaar: je krijgt niet het gevoel dat je iets exotisch probeert te kopiëren.
 
 ## Zwakke punten
 
@@ -84,7 +84,7 @@ Wat in Borkel en Schaft werkt, werkt niet vanzelf in een callcenter in Rotterdam
 
 ## Mijn oordeel
 
-**Koop dit boek als** je ondernemer bent in een klantgerichte sector en merkt dat je cultuur niet meer scherp is — of dat hij juist heel scherp is maar je niet weet hoe je dat naar anderen overbrengt.
+**Koop dit boek als** je ondernemer bent in een klantgerichte sector en merkt dat je cultuur niet meer scherp is, of dat hij juist heel scherp is maar je niet weet hoe je dat naar anderen overbrengt.
 
 **Sla dit boek over als** je op zoek bent naar theoretische modellen en onderzoek; pak dan liever de werken van Jaap Boonstra of André de Waal.
 
