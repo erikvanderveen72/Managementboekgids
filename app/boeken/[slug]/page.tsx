@@ -19,9 +19,10 @@ export async function generateStaticParams(): Promise<Params[]> {
 export async function generateMetadata({
   params,
 }: {
-  params: Params;
+  params: Promise<Params>;
 }): Promise<Metadata> {
-  const book = await getBook(params.slug);
+  const { slug } = await params;
+  const book = await getBook(slug);
   if (!book) return {};
   return {
     title: `${book.title} — samenvatting, review en belangrijkste lessen`,
@@ -34,8 +35,13 @@ export async function generateMetadata({
   };
 }
 
-export default async function BookPage({ params }: { params: Params }) {
-  const book = await getBook(params.slug);
+export default async function BookPage({
+  params,
+}: {
+  params: Promise<Params>;
+}) {
+  const { slug } = await params;
+  const book = await getBook(slug);
   if (!book) notFound();
 
   const jsonLd = {

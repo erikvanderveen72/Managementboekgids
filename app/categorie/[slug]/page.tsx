@@ -16,9 +16,10 @@ export async function generateStaticParams(): Promise<Params[]> {
 export async function generateMetadata({
   params,
 }: {
-  params: Params;
+  params: Promise<Params>;
 }): Promise<Metadata> {
-  const name = getCategoryName(params.slug);
+  const { slug } = await params;
+  const name = getCategoryName(slug);
   if (!name) return {};
   return {
     title: `Beste boeken over ${name.toLowerCase()}`,
@@ -26,10 +27,15 @@ export async function generateMetadata({
   };
 }
 
-export default function CategoryPage({ params }: { params: Params }) {
-  const name = getCategoryName(params.slug);
+export default async function CategoryPage({
+  params,
+}: {
+  params: Promise<Params>;
+}) {
+  const { slug } = await params;
+  const name = getCategoryName(slug);
   if (!name) notFound();
-  const books = getBooksByCategorySlug(params.slug);
+  const books = getBooksByCategorySlug(slug);
 
   return (
     <section className="container-wide py-16">
