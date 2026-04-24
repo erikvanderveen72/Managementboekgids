@@ -44,6 +44,7 @@ Elke boekpagina wordt volledig gedreven door de frontmatter en de markdown body.
 - `scores`: 0-10 op vier assen
 - `lessons`: lijst met `{ title, description }` — de belangrijkste lessen
 - `affiliate.managementboek`: URL naar de Managementboek.nl-pagina
+- `coverImage`: URL of pad naar de boekcover. Externe URL (`https://...`) werkt direct, of plaats een lokaal bestand in `public/covers/<isbn>.jpg` en verwijs via `/covers/<isbn>.jpg`
 
 ### 3. Review schrijven
 

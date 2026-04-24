@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AffiliateButton } from "@/components/AffiliateButton";
+import { BookCover } from "@/components/BookCover";
 import { ScoreBar } from "@/components/ScoreBar";
 import {
   categorySlug,
@@ -69,24 +70,31 @@ export default async function BookPage({ params }: { params: Params }) {
   return (
     <article>
       <header className="border-b border-ink/10 bg-paper-warm">
-        <div className="container-wide py-16">
-          <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
-            {book.categories[0] ?? "Bespreking"}
-          </p>
-          <h1 className="mt-4 max-w-3xl font-serif text-4xl leading-tight md:text-5xl">
-            {book.title}
-          </h1>
-          {book.subtitle && (
-            <p className="mt-3 max-w-2xl font-serif text-xl text-ink-soft">
-              {book.subtitle}
+        <div className="container-wide grid gap-10 py-16 md:grid-cols-5">
+          <div className="md:col-span-3">
+            <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
+              {book.categories[0] ?? "Bespreking"}
             </p>
+            <h1 className="mt-4 font-serif text-4xl leading-tight md:text-5xl">
+              {book.title}
+            </h1>
+            {book.subtitle && (
+              <p className="mt-3 font-serif text-xl text-ink-soft">
+                {book.subtitle}
+              </p>
+            )}
+            <p className="mt-6 text-sm text-ink-muted">
+              {book.authors.join(" & ")}
+              {book.publisher ? ` · ${book.publisher}` : ""}
+              {book.year ? ` · ${book.year}` : ""}
+              {book.pages ? ` · ${book.pages} pagina's` : ""}
+            </p>
+          </div>
+          {book.coverImage && (
+            <div className="md:col-span-2 flex items-start justify-center md:justify-end">
+              <BookCover src={book.coverImage} alt={`Cover van ${book.title}`} />
+            </div>
           )}
-          <p className="mt-6 text-sm text-ink-muted">
-            {book.authors.join(" & ")}
-            {book.publisher ? ` · ${book.publisher}` : ""}
-            {book.year ? ` · ${book.year}` : ""}
-            {book.pages ? ` · ${book.pages} pagina's` : ""}
-          </p>
         </div>
       </header>
 
