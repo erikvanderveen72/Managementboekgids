@@ -242,19 +242,19 @@ Sluit af met een heldere samenvatting, schriftelijk. Ook als de leverancier dat 
 
 Een van de meer originele bijdragen van het boek is de identificatie van wat de auteurs **"Dutch diseases"** noemen: drie diepgewortelde Nederlandse gewoontes die effectief onderhandelen sluipsgewijs ondermijnen. Wie ze herkent in zichzelf en zijn omgeving, kan ze actief bestrijden.
 
-### 1. Het Gelijkheidsdebat
+### 1. Het gelijkheidsdebat
 
 Nederlanders zijn cultureel sterk in debatteren. We willen elkaar overtuigen, en we leven in de overtuiging dat als we de feiten maar goed genoeg uitleggen, de ander wel zal moeten meebewegen. In een onderhandeling werkt dat tegen je. Onderhandelen gaat niet over gelijk hebben, maar over een uitkomst vinden waar beide partijen mee verder kunnen. Wie debatteert, creëert weerstand. Wie onderhandelt, creëert beweging.
 
 Het tegenwicht: schakel je zender-modus uit en zet je ontvanger aan. Stel meer vragen dan je antwoorden geeft. Wees nieuwsgierig naar de logica van de ander voordat je de jouwe presenteert.
 
-### 2. Inhoudelijke Haast
+### 2. Inhoudelijke haast
 
 In de Nederlandse zakelijke cultuur is "ter zake komen" een deugd. Dat klinkt sympathiek, maar in serieuze onderhandelingen is het vaak schadelijk. Wie direct over cijfers begint, slaat het belangrijkste deel over: het verkennen van de context, het in kaart brengen van belangen, het opbouwen van een werkrelatie. Het gevolg is dat je onderhandelt zonder de informatie die je nodig hebt om goed te onderhandelen.
 
 Het tegenwicht: investeer bewust in procesafspraken voordat je de inhoud induikt. "Hoe gaan we dit gesprek aanpakken?" is een sterkere openingszin dan "wat is je voorstel?".
 
-### 3. Lekke Vertrouwelijkheid
+### 3. Lekke vertrouwelijkheid
 
 In een land dat openheid hoog waardeert, voelt vertrouwelijkheid bijna verdacht. Maar de auteurs laten zien, onder andere aan de hand van gevallen waarin onderhandelingsnotities voortijdig in de openbaarheid kwamen, dat zonder een veilige besloten ruimte geen complexe deal tot stand komt. Partijen durven geen concessies meer te doen uit angst voor gezichtsverlies tegenover hun achterban. Het resultaat: het proces verstart en niemand bewegen meer.
 

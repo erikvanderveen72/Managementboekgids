@@ -5,6 +5,7 @@ authors:
   - "Anneke Valk"
   - "Filip De Groeve"
 publisher: "Pelckmans / Lannoo"
+isbn: "9789090407265"
 year: 2024
 pages: 224
 categories:

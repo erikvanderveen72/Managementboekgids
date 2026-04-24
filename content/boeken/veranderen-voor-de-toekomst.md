@@ -5,6 +5,7 @@ authors:
   - "Jaap Boonstra"
   - "Marjo Dubbeldam"
 publisher: "Boom Uitgevers"
+isbn: "9789024474196"
 year: 2024
 pages: 312
 categories:

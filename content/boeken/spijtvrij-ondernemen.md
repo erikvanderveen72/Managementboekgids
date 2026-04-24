@@ -4,6 +4,7 @@ subtitle: "Wat je pas leert over succes als het bijna te laat is"
 authors:
   - "Emma Hafkamp"
 publisher: "Uitgeverij Lucht"
+isbn: "9789492528322"
 year: 2025
 pages: 224
 categories:

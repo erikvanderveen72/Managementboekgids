@@ -4,6 +4,7 @@ subtitle: "Meer grip en minder gedoe"
 authors:
   - "Maarten Brand"
 publisher: "Haystack"
+isbn: "9789461266989"
 year: 2024
 pages: 176
 categories:

@@ -4,6 +4,7 @@ subtitle: "99 upgrades voor een onuitwisbare indruk tijdens presentaties"
 authors:
   - "Joop Wolters"
 publisher: "Van Duuren Management"
+isbn: "9789493480049"
 year: 2025
 pages: 272
 categories:

@@ -5,6 +5,7 @@ authors:
   - "Martijn Verspeek"
   - "Eddy Buiting"
 publisher: "Sequoia Uitgevers"
+isbn: "9789083359168"
 year: 2024
 pages: 256
 categories:

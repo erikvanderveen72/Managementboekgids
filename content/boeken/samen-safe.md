@@ -4,6 +4,7 @@ subtitle: "Hoe kleine gewoontes het grote verschil maken"
 authors:
   - "Hans van der Loo"
 publisher: "Uitgeverij Thema"
+isbn: "9789462724686"
 year: 2024
 pages: 208
 categories:

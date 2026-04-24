@@ -4,6 +4,7 @@ subtitle: "Dé no-nonsense aanpak van recruitment"
 authors:
   - "Jesse Geul"
 publisher: "Business Contact"
+isbn: "9789047017981"
 year: 2024
 pages: 272
 categories:

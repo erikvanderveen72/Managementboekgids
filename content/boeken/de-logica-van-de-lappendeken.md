@@ -4,6 +4,7 @@ subtitle: "Verbindingswerk rond vraagstukken die van iedereen en van niemand zij
 authors:
   - "Hans Vermaak"
 publisher: "Boom Uitgevers"
+isbn: "9789024456383"
 year: 2024
 pages: 288
 categories:

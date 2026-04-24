@@ -4,6 +4,7 @@ subtitle: "Begrijp hoe mensen denken, leidinggeven en dingen bereiken binnen ver
 authors:
   - "Erin Meyer"
 publisher: "Business Contact"
+isbn: "9789047015529"
 year: 2014
 pages: 288
 categories:

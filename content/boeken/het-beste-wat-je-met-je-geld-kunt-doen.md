@@ -4,6 +4,7 @@ subtitle: "Hoe je met effectief geven de wereld kunt veranderen"
 authors:
   - "Bram Schaper"
 publisher: "Business Contact"
+isbn: "9789047018834"
 year: 2025
 pages: 240
 categories:

@@ -4,6 +4,7 @@ subtitle: "3 essentiële pijlers voor succesvolle samenwerking"
 authors:
   - "Steven van den Heuvel"
 publisher: "Boom Uitgevers"
+isbn: "9789024469918"
 year: 2024
 pages: 240
 categories:

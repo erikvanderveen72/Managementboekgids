@@ -4,6 +4,7 @@ subtitle: "Van klant naar fan: meer omzet met minder stress"
 authors:
   - "Klaas Kroezen"
 publisher: "Van Duuren Management"
+isbn: "9789090409740"
 year: 2025
 pages: 256
 categories:

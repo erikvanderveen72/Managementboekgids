@@ -4,6 +4,7 @@ subtitle: "Zo word je zichtbaar in ChatGPT en Gemini"
 authors:
   - "Martin van Kranenburg"
 publisher: "Van Duuren Media"
+isbn: "9789463564427"
 year: 2025
 pages: 240
 categories:
