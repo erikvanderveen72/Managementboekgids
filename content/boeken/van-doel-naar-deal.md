@@ -283,6 +283,160 @@ Concreet betekent dat: aan het einde van elke onderhandeling neem je tien minute
 
 Elk van deze tien fouten kost in een typische carrière duizenden euro's en honderden verloren uren. Het boek is hierop een gerichte vaccinatie.
 
+## Pas dit boek toe met AI: vier prompts voor jouw volgende onderhandeling
+
+De principes uit *Van doel naar deal* worden krachtiger als je ze gebruikt in combinatie met een AI-assistent. Hieronder vier promptsjablonen die je direct in ChatGPT, Claude of Gemini kunt plakken — vul je eigen situatie in en gebruik de output als denkpartner, niet als beslisser.
+
+### Prompt 1 — Voorbereidingsanalyse
+
+```
+Je bent een ervaren onderhandelcoach die de Harvard-onderhandelmethode
+toepast.
+
+Mijn situatie:
+[beschrijf in 5-10 zinnen: wie, wat, waarom, en wat de
+huidige posities zijn]
+
+Help mij voor te bereiden door achtereenvolgens:
+1. Mijn werkelijke doel scherp te maken (verschil tussen openingsbod en
+   onderliggend belang)
+2. Mijn BATNA in kaart te brengen en suggesties te geven om hem te
+   versterken
+3. De waarschijnlijke belangen van de andere partij te identificeren
+4. Drie objectieve criteria te noemen die ik kan gebruiken
+5. Vijf onderhandelvariabelen op te lijsten naast de hoofdvariabele
+6. Mijn meest waarschijnlijke emotionele valkuil te benoemen
+
+Stel daarna 5 kritische vragen die ik mezelf moet beantwoorden voor
+het gesprek.
+```
+
+### Prompt 2 — Belangenanalyse van de tegenpartij
+
+```
+Mijn tegenpartij is [beschrijf rol, organisatie, context]. Hun
+standpunt is [beschrijf wat ze zeggen te willen].
+
+Help mij hun werkelijke belangen te begrijpen.
+
+Geef:
+- 5 mogelijke onderliggende belangen (waarom willen ze dit echt?)
+- 3 mogelijke beperkingen waar ik geen zicht op heb (druk van boven,
+  alternatieven, gezichtsverlies)
+- 5 vragen die ik in het gesprek kan stellen om dit te toetsen
+- 3 mogelijke voorstellen die hun belang dienen zonder mijn eigen doel
+  op te geven
+```
+
+### Prompt 3 — Stress-rollenspel
+
+```
+Ik wil oefenen met een lastig onderhandelgesprek voordat het
+plaatsvindt.
+
+Speel de rol van [beschrijf tegenpartij]. Wees realistisch lastig:
+zet druk, gebruik tijdsdruk, schiet af op zwakke punten in mijn
+positie. Reageer alsof je werkelijk weinig wilt toegeven.
+
+Mijn openingszin: [schrijf je opening]
+
+Voer het gesprek uit en geef na elke beurt van mij feedback over:
+- wat ik goed deed
+- wat ik anders had kunnen doen volgens de Harvard-methode
+- wat een sterkere reactie zou zijn geweest
+```
+
+### Prompt 4 — Afsluitende samenvatting
+
+```
+Ik heb zojuist een onderhandeling afgerond. Hier zijn mijn ruwe
+notities:
+
+[plak je notities]
+
+Maak een professionele schriftelijke samenvatting in mailvorm voor de
+tegenpartij, met daarin:
+- wat we hebben afgesproken (wie, wat, wanneer)
+- wat we niet besproken hebben maar relevant blijft
+- de aanspreekpersonen voor verschillende onderdelen
+- een verzoek om bevestiging
+- een vriendelijke maar professionele toon
+
+Markeer expliciet eventuele dingen die nog open zijn — schrijf liever
+één regel te veel dan iets vergeten.
+```
+
+Tip: bewaar deze prompts in je eigen "promptbibliotheek" en pas ze in de loop van de tijd aan op basis van wat in jouw context werkt.
+
+## Vergelijking met andere onderhandelboeken
+
+Onderhandelliteratuur is een rijk landschap. *Van doel naar deal* is geen unicum — het is een vertaling. Wie verder wil lezen, of wie zich afvraagt of dit het juiste boek voor zijn situatie is, vindt hier de belangrijkste alternatieven.
+
+### Getting to Yes — Roger Fisher & William Ury
+
+Het oorspronkelijke werk waarop *Van doel naar deal* leunt. *Getting to Yes* is dunner, droger en theoretischer, maar nog steeds het beste uitgangspunt als je de vier principes van de Harvard-methode in zijn pure vorm wilt begrijpen. Engels en internationaal van toon. Lees dit als je dieper wilt graven na *Van doel naar deal* — niet ervoor.
+
+### Never Split the Difference — Chris Voss
+
+Een heel ander register. Voss is voormalig FBI-gijzelingsonderhandelaar en pleit voor tactisch invoelend onderhandelen, met technieken als "tactical empathy", spiegelen en het stellen van calibrated questions. Veel praktischer dan Harvard, maar ook ontvankelijker voor kritiek dat sommige technieken manipulatief aanvoelen. Mooi naast *Van doel naar deal*: waar Masselink/Van Rossum het strategische frame geven, geeft Voss de microtactiek voor het gesprek zelf.
+
+### Bargaining for Advantage — G. Richard Shell
+
+Shell is hoogleraar aan Wharton en schrijft analytisch en nuancerend. Zijn boek erkent dat onderhandelaars verschillende natuurlijke stijlen hebben (vermijdend, accommoderend, compromisbereid, samenwerkend, competitief) en helpt je werken vanuit de jouwe. Inhoudelijk dieper dan *Van doel naar deal*, maar ook minder makkelijk in een weekend te lezen. Voor gevorderden.
+
+### Negotiation Genius — Deepak Malhotra & Max Bazerman
+
+Malhotra en Bazerman zijn beiden Harvard-hoogleraren. Dit boek is academischer en behandelt complexere onderhandelsituaties (meerpartijen, irrationele tegenpartijen, ethische dilemma's) die *Van doel naar deal* bewust laat liggen. Goed vervolg als je de basis al beheerst.
+
+### Onderhandelen — George van Houtem
+
+De Nederlandse klassieker, lange tijd standaardwerk in trainingen. Praktischer dan Harvard, met meer aandacht voor de Nederlandse zakelijke realiteit. Overlapt met *Van doel naar deal*, maar legt iets meer nadruk op tactiek en iets minder op zelfregie.
+
+### Welk boek wanneer?
+
+| Wat zoek je? | Pak dit boek |
+|---|---|
+| Compacte introductie, NL praktijk, snelle start | **Van doel naar deal** |
+| Theoretisch fundament, Engels origineel | *Getting to Yes* |
+| Tactisch arsenaal voor het gesprek zelf | *Never Split the Difference* |
+| Diepere theorie, eigen onderhandelstijl ontwikkelen | *Bargaining for Advantage* |
+| Complexere situaties, meerpartijen, ethiek | *Negotiation Genius* |
+| Nederlandse klassieker, brede tactische basis | *Onderhandelen* (Van Houtem) |
+
+## Veelgestelde vragen
+
+### Is dit boek geschikt voor beginners?
+
+Ja. Het is bewust toegankelijk geschreven en vraagt geen voorkennis van onderhandelingstheorie. Wie nog nooit een onderhandelboek heeft gelezen, krijgt hier een solide eerste basis met direct toepasbare lessen.
+
+### Heb ik het Engelse origineel (Getting to Yes) ook nodig?
+
+Nee. *Van doel naar deal* dekt de essentie van de Harvard-methode af voor de meeste praktische situaties. Pak *Getting to Yes* alleen als je de oorspronkelijke argumentatie wilt lezen of als je academische context zoekt.
+
+### Hoeveel tijd kost het om het boek te lezen?
+
+176 pagina's, vlot geschreven — de meeste lezers doen er een lang weekend over. De waarde komt echter pas bij toepassen, en daarvoor zou je het boek bij elke belangrijke onderhandeling kort moeten herlezen.
+
+### Werkt dit ook in inkoop, sales of recruitment?
+
+Ja, met aandacht voor sectorgewoontes. Hardcore transactionele B2C-sales of high-volume telesales hebben hun eigen dynamiek waar Harvard-principes minder centraal staan. Maar voor B2B, complexe deals, salarisgesprekken en strategische inkoop is het boek direct relevant.
+
+### Wat als de andere partij ook dit boek heeft gelezen?
+
+Dat is geen probleem — het is juist gunstig. De Harvard-methode is geen geheime tactiek, het is een werkwijze die beter wordt naarmate beide partijen hem hanteren. Twee onderhandelaars die belangen onderzoeken in plaats van standpunten verdedigen, komen sneller tot betere uitkomsten.
+
+### Is dit relevant voor cao- of mediation-trajecten?
+
+Voor cao-onderhandelingen biedt het de juiste basisprincipes, maar mist het de specifieke complexiteit van meerpartijen-, achterban- en juridische dynamiek. Voor formele mediation is het bruikbaar als algemene gids, maar daar bestaan gespecialiseerde werken voor.
+
+### Hoe gebruik ik dit binnen mijn team?
+
+Een sterke aanpak: lees het samen, kies één hoofdstuk per week, en bespreek na elke onderhandeling die teamleden hebben gevoerd wat er werkte en wat niet, gerelateerd aan de zes vragen uit het voorbereidingswerkblad. Maak het een gewoonte, geen eenmalige training.
+
+### Wat doe ik als de andere partij weigert principieel te onderhandelen?
+
+Dat is een bekend scenario en het boek besteedt er enige aandacht aan. Kort: je gaat niet mee in tactische spelletjes, je benoemt wat je waarneemt ("ik merk dat we vooral over jullie standpunt praten en nog niet over wat ons beiden helpt"), en je houdt vast aan objectieve criteria. Werkt dat structureel niet, dan is je BATNA waarschijnlijk je beste optie — niet door te dreigen, maar door rustig te accepteren dat deze deal er niet komt.
+
 ## Sterke punten
 
 De grootste kracht is de combinatie van beknoptheid en bruikbaarheid. Het boek is geen theoretisch werk, maar een praktische gids die je kunt herlezen voor elk belangrijk gesprek. De nadruk op zelfregie — het moment vóór het gesprek en het moment waarop je voelt dat emotie je gaat sturen — is in de Nederlandse managementliteratuur niet vanzelfsprekend en verdient het om breed gelezen te worden.
@@ -295,10 +449,37 @@ Wie *Getting to Yes* of *Never Split the Difference* kent, zal in *Van doel naar
 
 ## Mijn oordeel
 
-*Van doel naar deal* is geen boek dat het vakgebied verandert, maar dat hoeft ook niet. Het is een sterke, toegankelijke Nederlandse introductie tot principieel onderhandelen, ideaal voor wie net leidinggevende is geworden, een eigen bedrijf start, of merkt dat belangrijke gesprekken vaak anders lopen dan gehoopt.
+*Van doel naar deal* is geen boek dat de onderhandelingstheorie omverwerpt. Het hoeft dat ook niet. Wat Masselink en Van Rossum hebben gedaan is iets bescheideners en daarom waardevollers: ze hebben een internationaal beproefde methode vertaald naar de Nederlandse zakelijke realiteit, vlot geschreven, en aangevuld met scherpe observaties over typisch Nederlands gedrag (de Dutch diseases) en de psychologische zelfregie die in veel andere boeken ondergesneeuwd raakt.
 
-**Koop dit boek als** je een praktische reminder wilt dat onderhandelen begint bij jezelf en bij je doel, en als je concrete handvatten zoekt voor gesprekken die er werkelijk toe doen.
+De grootste verdienste is dat het boek onderhandelen **demystificeert**. Het is geen kunst voor een handvol salesexperts en topbestuurders. Het is een dagelijkse vaardigheid die elke professional kan leren — en die loont in elke serieuze rol. De combinatie van een diplomatiek strateeg (Van Rossum) en een organisatiepsycholoog (Masselink) levert een boek op dat zowel hoogte (strategie en alliantievorming) als diepte (eigen reactie en proceskennis) heeft.
 
-**Sla dit boek over als** je al een ervaren onderhandelaar bent of een diepgaand academisch werk zoekt. Pak in dat geval *Bargaining for Advantage* van Shell of *Negotiation Genius* van Malhotra en Bazerman.
+De beperkingen zijn eerlijk te benoemen. Het compacte formaat laat weinig ruimte voor complexere casuïstiek: meerpartijen, machtsasymmetrie, cross-cultureel werken. Voor wie op dat niveau zoekt, zijn er sterkere alternatieven. En wie *Getting to Yes* of *Never Split the Difference* al grondig heeft gelezen, vindt hier weinig conceptueel nieuws — wel een prettige Nederlandse uitwerking.
 
-> **Transparantie:** Deze bespreking is geschreven op basis van openbaar beschikbare uitgeversinformatie en de onderhandelprincipes waarop het boek expliciet is gebaseerd. Zodra we het boek volledig hebben doorgewerkt, werken we de bespreking bij met aanvullende inzichten en concrete voorbeelden uit de tekst.
+### Koop dit boek als…
+
+- Je net leidinggevende bent geworden of een eigen bedrijf bent gestart
+- Je merkt dat belangrijke gesprekken vaak anders lopen dan je had gehoopt
+- Je een handzame Nederlandse referentie wilt voor je volgende onderhandeling
+- Je een team wilt trainen op een gemeenschappelijke onderhandelbasis
+- Je voelt dat emotie en tijdsdruk regelmatig de uitkomst voor je bepalen
+
+### Sla dit boek over als…
+
+- Je al jaren actief onderhandelt op senior niveau en de Harvard-methode beheerst
+- Je een diepgaand academisch werk zoekt over onderhandelingstheorie
+- Je werkt in een hardcore transactionele context (telesales, marktplaats-achtige inkoop) waar relatie en lange termijn ondergeschikt zijn
+- Je hoofdzakelijk in cross-culturele of meerpartijen-onderhandelingen zit — kies dan eerst Erin Meyer's *The Culture Map* en aanvullend academisch werk
+
+### Eindscore
+
+| Criterium | Score |
+|---|---|
+| Praktische toepasbaarheid | 8/10 |
+| Leesbaarheid | 9/10 |
+| Originaliteit | 6/10 |
+| Geschikt voor beginners | 9/10 |
+| **Algeheel oordeel** | **8/10** |
+
+Een aanrader voor het brede middensegment van Nederlandse professionals die hun onderhandelvaardigheid serieus willen nemen zonder een academische studie te beginnen. Voor een investering van een goed weekend lezen krijg je een vaardigheid waar je de rest van je carrière van profiteert.
+
+> **Transparantie:** Deze bespreking is geschreven op basis van publiek beschikbare uitgeversinformatie, achtergronden van de auteurs (NLBVO, &FLUENCE, HEINEKEN, publieke sector) en de onderhandelprincipes waarop het boek expliciet leunt (Harvard-methode). Specifieke concepten als de "Dutch diseases", de "deal achter het doel" en de koffie-metafoor zijn aan het boek toe te schrijven; uitgewerkte oefeningen, scenario's en AI-prompts zijn onze eigen vertaling van de principes naar de praktijk.
