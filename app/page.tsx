@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { BookCard } from "@/components/BookCard";
+import { BookCover } from "@/components/BookCover";
 import { getAllBooks, getAllCategories } from "@/lib/books";
 
 export default function HomePage() {
@@ -26,48 +27,67 @@ export default function HomePage() {
       </section>
 
       {featured && (
-        <section className="container-wide">
-          <div className="rule" />
-          <div className="grid gap-10 py-12 md:grid-cols-5">
-            <div className="md:col-span-2">
-              <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
-                Nieuwste bespreking
-              </p>
-              <h2 className="mt-3 font-serif text-3xl leading-tight">
+        <section className="bg-paper-warm">
+          <div className="container-wide py-16">
+            <div className="grid gap-12 md:grid-cols-12 md:items-center">
+              <div className="order-2 md:order-1 md:col-span-7">
+                <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
+                  Nieuwste bespreking
+                </p>
+                <h2 className="mt-4 font-serif text-4xl leading-tight md:text-5xl">
+                  <Link
+                    href={`/boeken/${featured.slug}`}
+                    className="no-underline text-ink hover:text-accent"
+                  >
+                    {featured.title}
+                  </Link>
+                </h2>
+                {featured.subtitle && (
+                  <p className="mt-3 font-serif text-xl text-ink-soft">
+                    {featured.subtitle}
+                  </p>
+                )}
+                <p className="mt-4 text-sm text-ink-muted">
+                  {featured.authors.join(" & ")}
+                  {featured.publisher ? ` · ${featured.publisher}` : ""}
+                  {featured.year ? ` · ${featured.year}` : ""}
+                </p>
+                <p className="mt-6 text-lg leading-relaxed text-ink-soft">
+                  {featured.excerpt}
+                </p>
                 <Link
                   href={`/boeken/${featured.slug}`}
-                  className="no-underline text-ink hover:text-accent"
+                  className="mt-8 inline-flex items-center gap-2 rounded-sm bg-ink px-6 py-3 text-sm font-medium text-paper no-underline transition hover:bg-accent"
                 >
-                  {featured.title}
+                  Lees de bespreking
+                  <span aria-hidden="true">→</span>
                 </Link>
-              </h2>
-              {featured.subtitle && (
-                <p className="mt-2 text-ink-muted">{featured.subtitle}</p>
+              </div>
+              {featured.coverImage && (
+                <div className="order-1 md:order-2 md:col-span-5">
+                  <Link
+                    href={`/boeken/${featured.slug}`}
+                    className="block"
+                    aria-label={`Bespreking van ${featured.title}`}
+                  >
+                    <div className="flex justify-center">
+                      <BookCover
+                        src={featured.coverImage}
+                        alt={`Cover van ${featured.title}`}
+                        maxHeight={460}
+                      />
+                    </div>
+                  </Link>
+                </div>
               )}
-              <p className="mt-2 text-sm text-ink-soft">
-                {featured.authors.join(" & ")}
-                {featured.year ? ` · ${featured.year}` : ""}
-              </p>
-            </div>
-            <div className="md:col-span-3">
-              <p className="font-serif text-xl leading-relaxed text-ink-soft">
-                {featured.excerpt}
-              </p>
-              <Link
-                href={`/boeken/${featured.slug}`}
-                className="mt-6 inline-block text-sm text-accent no-underline hover:text-accent-soft"
-              >
-                Lees de bespreking →
-              </Link>
             </div>
           </div>
         </section>
       )}
 
       {rest.length > 0 && (
-        <section className="container-wide py-12">
-          <div className="rule" />
-          <div className="flex items-baseline justify-between pt-10">
+        <section className="container-wide py-16">
+          <div className="flex items-baseline justify-between">
             <h2 className="font-serif text-2xl">Recente besprekingen</h2>
             <Link
               href="/boeken"
@@ -76,7 +96,7 @@ export default function HomePage() {
               Alle boeken →
             </Link>
           </div>
-          <div className="mt-8 grid gap-10 md:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-10 grid gap-10 md:grid-cols-2 lg:grid-cols-3">
             {rest.map((b) => (
               <BookCard key={b.slug} book={b} />
             ))}
@@ -85,7 +105,7 @@ export default function HomePage() {
       )}
 
       {categories.length > 0 && (
-        <section className="container-wide py-12">
+        <section className="container-wide py-12 pb-16">
           <div className="rule" />
           <h2 className="pt-10 font-serif text-2xl">Categorieën</h2>
           <div className="mt-6 flex flex-wrap gap-2">
