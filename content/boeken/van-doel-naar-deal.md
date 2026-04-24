@@ -7,6 +7,7 @@ authors:
 publisher: "Uitgeverij Thema"
 year: 2026
 pages: 176
+isbn: "9789462724891"
 categories:
   - "Onderhandelen"
   - "Communicatie"
@@ -59,7 +60,7 @@ lessons:
   - title: "Sluit helder af"
     description: "Een deal zonder concrete afspraken over wie, wat, wanneer is geen deal. Vat altijd schriftelijk samen wat je hebt afgesproken — ook bij interne gesprekken. Wat niet is vastgelegd, wordt zelden uitgevoerd zoals bedoeld."
 affiliate:
-  managementboek: "https://www.managementboek.nl/zoeken?zoekterm=van+doel+naar+deal"
+  managementboek: "https://www.managementboek.nl/boek/9789462724891/van-doel-naar-deal-tim-masselink"
 ---
 
 ## Waar gaat dit boek over?
@@ -67,6 +68,16 @@ affiliate:
 Onderhandelen wordt in veel Nederlandse werkculturen nog steeds geassocieerd met marktplaats-achtig afdingen of keiharde salestrainingen. *Van doel naar deal* zet daar een rustiger, strategischer beeld tegenover. Masselink en Van Rossum behandelen onderhandelen als een proces waarin je eerst jezelf op orde brengt, dan de ander probeert te begrijpen, en pas daarna naar een uitkomst toewerkt.
 
 Het boek leunt herkenbaar op de **Harvard-onderhandelmethode** van Fisher en Ury: scheid de mens van het probleem, focus op belangen in plaats van standpunten, bedenk opties voor gezamenlijk voordeel, en gebruik objectieve criteria. Wat de Nederlandse vertaling aantrekkelijk maakt, is dat de voorbeelden dicht bij de praktijk van managers, ondernemers en professionals liggen: salarisgesprekken, contractverlengingen, leveranciersafspraken, interne conflicten over scope en budget.
+
+## Over de auteurs
+
+De combinatie Masselink en Van Rossum is geen toeval. Beide auteurs werken bij **&FLUENCE**, een adviesbureau gespecialiseerd in onderhandeling en stakeholdermanagement. Maar hun achtergronden zijn complementair, en dat verklaart waarom het boek zowel diplomatieke diepte als psychologische scherpte heeft.
+
+**Maarten van Rossum** is jurist en bracht zeventien jaar door in de publieke sector — onder meer in Brussel, Washington D.C. en Afghanistan. Hij was raadadviseur van de Nederlandse minister-president en daarna Global Director of Public Affairs bij HEINEKEN, voordat hij Head of Strategy werd bij &FLUENCE. Hij is ook gastdocent aan onder andere West Point en de Tuck School of Business. Zijn perspectief is dat van de onderhandelaar in een wereld waar reputatie, alliantievorming en lange-termijnbelangen vaak meer wegen dan het korte gewin.
+
+**Tim Masselink** is organisatiepsycholoog en politicoloog. Hij is voorzitter van de **Nederlandse Beroepsorganisatie voor Onderhandelaars (NLBVO)** en Head of Negotiations bij &FLUENCE. Daarnaast is hij betrokken bij de lokale politiek in Culemborg en jurylid bij de Nationale Onderhandelprijs. Zijn werk richt zich op de psychologische dynamiek van het gesprek zelf: hoe je je eigen reactie herkent, hoe je het proces leest, en hoe je in spannende momenten de regie houdt.
+
+Die combinatie — diplomatiek strateeg plus organisatiepsycholoog — verklaart waarom het boek twee dingen tegelijk doet: het geeft je een scherpe strategische lens én een praktische handleiding voor wat er in jezelf gebeurt aan tafel.
 
 ## Het Harvard-fundament in het kort
 
@@ -83,7 +94,7 @@ De Harvard-methode — ontstaan aan het Harvard Negotiation Project in de jaren 
 
 De belangrijkste fout in de meeste onderhandelingen ontstaat voordat het gesprek begint: we verwarren ons **eerste voorstel** met ons **werkelijke doel**. Een manager gaat een salarisgesprek in met "ik wil vijf procent" en denkt dat hij zijn doel kent. Zijn echte doel is meestal iets anders: erkenning voor een jaar hard werken, zekerheid dat hij niet achterblijft bij de markt, of ruimte om hetzelfde werk met minder stress te doen.
 
-Dat verschil matters. Een werkgever die geen vijf procent kan geven kan wél extra verlof, een bonus, een ontwikkelbudget of een nieuwe rol bieden. Zolang jij je doel hebt verkleind tot je openingsbod, mis je die ruimte.
+Masselink en Van Rossum noemen dit de **"deal achter het doel"**: zodra je voorbij je openingspositie kunt kijken naar wat je werkelijk wilt bereiken, zie je dat dezelfde behoefte op meerdere manieren bevredigd kan worden. Een werkgever die geen vijf procent kan geven kan wél extra verlof, een bonus, een ontwikkelbudget of een nieuwe rol bieden. Zolang jij je doel hebt verkleind tot je openingsbod, mis je die ruimte volledig.
 
 **Oefening.** Schrijf voor je volgende gesprek drie lagen op:
 - *Wat ik ga vragen* (je voorstel)
@@ -226,6 +237,36 @@ Je koopt software in voor je bedrijf. De leverancier vraagt een jaarcontract met
 Objectieve criteria: inflatieniveau (is elf procent marktconform?), wat andere klanten van dezelfde leverancier betalen (vaak te achterhalen), branchestandaarden voor opzegtermijnen. Elk van deze gegevens verschuift het gesprek van "wij willen dit" naar "wat is redelijk".
 
 Sluit af met een heldere samenvatting, schriftelijk. Ook als de leverancier dat niet vraagt — zeker dan.
+
+## De "Dutch diseases": drie typisch Nederlandse valkuilen
+
+Een van de meer originele bijdragen van het boek is de identificatie van wat de auteurs **"Dutch diseases"** noemen: drie diepgewortelde Nederlandse gewoontes die effectief onderhandelen sluipsgewijs ondermijnen. Wie ze herkent in zichzelf en zijn omgeving, kan ze actief bestrijden.
+
+### 1. Het Gelijkheidsdebat
+
+Nederlanders zijn cultureel sterk in debatteren. We willen elkaar overtuigen, en we leven in de overtuiging dat als we de feiten maar goed genoeg uitleggen, de ander wel zal moeten meebewegen. In een onderhandeling werkt dat tegen je. Onderhandelen gaat niet over gelijk hebben, maar over een uitkomst vinden waar beide partijen mee verder kunnen. Wie debatteert, creëert weerstand. Wie onderhandelt, creëert beweging.
+
+Het tegenwicht: schakel je zender-modus uit en zet je ontvanger aan. Stel meer vragen dan je antwoorden geeft. Wees nieuwsgierig naar de logica van de ander voordat je de jouwe presenteert.
+
+### 2. Inhoudelijke Haast
+
+In de Nederlandse zakelijke cultuur is "ter zake komen" een deugd. Dat klinkt sympathiek, maar in serieuze onderhandelingen is het vaak schadelijk. Wie direct over cijfers begint, slaat het belangrijkste deel over: het verkennen van de context, het in kaart brengen van belangen, het opbouwen van een werkrelatie. Het gevolg is dat je onderhandelt zonder de informatie die je nodig hebt om goed te onderhandelen.
+
+Het tegenwicht: investeer bewust in procesafspraken voordat je de inhoud induikt. "Hoe gaan we dit gesprek aanpakken?" is een sterkere openingszin dan "wat is je voorstel?".
+
+### 3. Lekke Vertrouwelijkheid
+
+In een land dat openheid hoog waardeert, voelt vertrouwelijkheid bijna verdacht. Maar de auteurs laten zien — onder andere aan de hand van gevallen waarin onderhandelingsnotities voortijdig in de openbaarheid kwamen — dat zonder een veilige besloten ruimte geen complexe deal tot stand komt. Partijen durven geen concessies meer te doen uit angst voor gezichtsverlies tegenover hun achterban. Het resultaat: het proces verstart en niemand bewegen meer.
+
+Het tegenwicht: maak vertrouwelijkheid expliciet onderdeel van je werkafspraken. Spreek af wat wel en niet naar buiten gaat — en houd je daaraan, ook onder druk.
+
+## Onderhandelen na de deal: de koffie-metafoor
+
+Een onderschat thema in het boek is wat ná de handtekening gebeurt. Van Rossum gebruikt een treffende metafoor: stel dat iemand afspreekt elke dag koffie met melk te halen. Klinkt simpel — totdat je ontdekt dat de ene kant cappuccino bedoelt en de ander koffie verkeerd, dat de ene kant warme melk wil en de ander koud, en dat er geen afspraak is gemaakt over het tijdstip.
+
+In de meeste onderhandelingen zit het werkelijke conflict niet in de hoofdvariabelen, maar in de uitvoeringsdetails die niemand expliciet heeft gemaakt. Een goede onderhandelaar anticipeert op die details vóór het contract wordt getekend, niet erna.
+
+Concreet betekent dat: aan het einde van elke onderhandeling neem je tien minuten om vragen te stellen die niemand wil stellen. *Wat als de leverancier vertraging oploopt? Wat als de scope verandert? Wat als één van beide partijen wil opzeggen? Wie beslist als wij het niet eens worden over de uitvoering?* De ongemakkelijke vragen die je nu stelt, zijn de ruzies die je over zes maanden vermijdt.
 
 ## Tien veelgemaakte fouten die dit boek voorkomt
 
