@@ -5,6 +5,7 @@ authors:
   - "Job Boersma"
   - "Guus Essers"
 publisher: "Haystack"
+isbn: "9789461260536"
 year: 2025
 pages: 272
 categories:

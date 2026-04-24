@@ -4,6 +4,7 @@ subtitle: "De weg verder met Digitale Transformatie in de Nederlandse overheid"
 authors:
   - "Michiel de van der Schueren"
 publisher: "Eigen beheer"
+isbn: "9789090418056"
 year: 2025
 pages: 288
 categories:

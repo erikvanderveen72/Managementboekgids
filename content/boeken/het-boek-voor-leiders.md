@@ -5,6 +5,7 @@ authors:
   - "Nicolette Kat"
   - "Inge Wels"
 publisher: "Van Duuren Management"
+isbn: "9789089657367"
 year: 2025
 pages: 288
 categories:

@@ -4,6 +4,7 @@ subtitle: "Lastige gesprekken voeren in teams"
 authors:
   - "Gytha Heins"
 publisher: "Boom"
+isbn: "9789024466450"
 year: 2024
 pages: 240
 categories:

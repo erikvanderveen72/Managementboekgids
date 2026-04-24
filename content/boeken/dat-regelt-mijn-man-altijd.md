@@ -4,6 +4,7 @@ subtitle: "Zicht op je poen, toch maar zelf doen"
 authors:
   - "Marianne Heemskerk"
 publisher: "Eigen beheer"
+isbn: "9789083626314"
 year: 2024
 pages: 240
 categories:

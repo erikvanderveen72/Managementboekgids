@@ -5,6 +5,7 @@ authors:
   - "Joris Janssen"
   - "Daan Dohmen"
 publisher: "Van Duuren Management"
+isbn: "9789492528834"
 year: 2025
 pages: 272
 categories:

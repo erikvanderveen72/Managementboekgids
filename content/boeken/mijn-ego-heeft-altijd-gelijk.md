@@ -4,6 +4,7 @@ subtitle: "Van zelfbedrog naar zelfkennis"
 authors:
   - "Roos Vonk"
 publisher: "Meulenhoff"
+isbn: "9789029094955"
 year: 2024
 pages: 272
 categories:

@@ -5,6 +5,7 @@ authors:
   - "Gijs Nillessen"
   - "Jonas van der Vlugt"
 publisher: "Boom"
+isbn: "9789024452828"
 year: 2025
 pages: 208
 categories:

@@ -4,6 +4,7 @@ subtitle: "Negen impactversnellers om meer resultaat uit je werk te halen"
 authors:
   - "Rini van Solingen"
 publisher: "Boom Uitgevers"
+isbn: "9789083485836"
 year: 2024
 pages: 240
 categories:

@@ -4,6 +4,7 @@ subtitle: "52 verrassende inzichten die je werk en leven nét wat leuker maken"
 authors:
   - "Ben Tiggelaar"
 publisher: "Tyler Roland Press"
+isbn: "9789083099767"
 year: 2025
 pages: 240
 categories:

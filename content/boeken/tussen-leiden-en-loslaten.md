@@ -5,6 +5,7 @@ authors:
   - "Miloe van Beek"
   - "Jakob van Wielink"
 publisher: "LannooCampus"
+isbn: "9789049205713"
 year: 2024
 pages: 256
 categories:

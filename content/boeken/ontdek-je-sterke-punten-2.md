@@ -4,6 +4,7 @@ subtitle: "Een revolutionair programma om unieke talenten te ontwikkelen"
 authors:
   - "Tom Rath"
 publisher: "Spectrum"
+isbn: "9789000361472"
 year: 2017
 pages: 192
 categories:

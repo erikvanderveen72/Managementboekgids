@@ -4,6 +4,7 @@ subtitle: "Waarom ruimte voor neurodiversiteit op het werk goed is voor iedereen
 authors:
   - "Saskia Schepers"
 publisher: "Business Contact"
+isbn: "9789047017240"
 year: 2024
 pages: 272
 categories:

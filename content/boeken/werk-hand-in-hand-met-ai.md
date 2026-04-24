@@ -4,6 +4,7 @@ subtitle: "In vijf stappen naar een AI-aanpak voor je team"
 authors:
   - "Kim Pot"
 publisher: "Boom Uitgevers"
+isbn: "9789024469338"
 year: 2025
 pages: 224
 categories:

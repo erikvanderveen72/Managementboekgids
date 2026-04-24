@@ -4,6 +4,7 @@ subtitle: "Hét businessmodel van de toekomst"
 authors:
   - "Aad van der Zalm"
 publisher: "Eigen beheer"
+isbn: "9789464379440"
 year: 2024
 pages: 240
 categories:

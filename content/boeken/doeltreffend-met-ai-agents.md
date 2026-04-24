@@ -4,6 +4,7 @@ subtitle: "Zo bereid je jouw organisatie voor op de toekomst van werk"
 authors:
   - "Joop Snijder"
 publisher: "Boom"
+isbn: "9789024474264"
 year: 2025
 pages: 240
 categories:

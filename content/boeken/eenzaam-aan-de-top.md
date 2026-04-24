@@ -5,6 +5,7 @@ authors:
   - "Marilieke Engbers"
   - "Pim Bouwman"
 publisher: "Business Contact"
+isbn: "9789047018018"
 year: 2024
 pages: 256
 categories:

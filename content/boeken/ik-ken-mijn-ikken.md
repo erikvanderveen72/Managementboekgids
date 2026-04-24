@@ -6,6 +6,7 @@ authors:
   - "Judith Budde"
   - "Berry Collewijn"
 publisher: "Uitgeverij Thema"
+isbn: "9789462723153"
 year: 2024
 pages: 288
 categories:

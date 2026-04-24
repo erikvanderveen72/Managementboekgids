@@ -4,6 +4,7 @@ subtitle: "In 3 stappen slimmer en leuker werken met AI"
 authors:
   - "Sanne Cornelissen"
 publisher: "Eigen beheer (AI-book)"
+isbn: "9789000399475"
 year: 2025
 pages: 192
 categories:
