@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-feature-settings: "ss01", "cv11";
+  }
+  body {
+    @apply bg-paper text-ink font-sans antialiased;
+  }
+  h1, h2, h3, h4 {
+    @apply font-serif text-ink;
+    letter-spacing: -0.01em;
+  }
+  a {
+    @apply underline-offset-4;
+  }
+}
+
+@layer components {
+  .container-prose {
+    @apply mx-auto w-full max-w-3xl px-6;
+  }
+  .container-wide {
+    @apply mx-auto w-full max-w-6xl px-6;
+  }
+  .rule {
+    @apply border-t border-ink/10;
+  }
+}
+
+.prose-editorial {
+  @apply prose prose-neutral max-w-none;
+}
+.prose-editorial h2 {
+  @apply font-serif mt-12 mb-4 text-2xl;
+}
+.prose-editorial h3 {
+  @apply font-serif mt-8 mb-3 text-xl;
+}
+.prose-editorial p {
+  @apply leading-relaxed;
+}
+.prose-editorial a {
+  @apply text-accent hover:text-accent-soft;
+}
