@@ -4,6 +4,7 @@ subtitle: "5 knoppen om onnodig gelazer in organisatieverandering te voorkomen"
 authors:
   - "Maaike Thiecke"
 publisher: "Van Duuren Management"
+isbn: "9789493480117"
 year: 2025
 pages: 224
 categories:

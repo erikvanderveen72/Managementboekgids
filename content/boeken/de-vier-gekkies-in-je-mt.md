@@ -4,6 +4,7 @@ subtitle: "Wat er misgaat tussen directiekamer en werkvloer"
 authors:
   - "Robin van Lohuizen"
 publisher: "Van Duuren Management"
+isbn: "9789493480216"
 year: 2025
 pages: 240
 categories:

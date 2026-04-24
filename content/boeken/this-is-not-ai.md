@@ -4,6 +4,7 @@ subtitle: "Hoe je AI slim gebruikt en zelf blijft nadenken"
 authors:
   - "Sanne Cornelissen"
 publisher: "Spectrum"
+isbn: "9789000404582"
 year: 2025
 pages: 224
 categories:

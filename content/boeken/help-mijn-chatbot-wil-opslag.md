@@ -5,6 +5,7 @@ authors:
   - "Arko van Brakel"
   - "Erik-Jan Koedijk"
 publisher: "Van Duuren Management"
+isbn: "9789090421100"
 year: 2025
 pages: 224
 categories:
