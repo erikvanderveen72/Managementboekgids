@@ -45,6 +45,7 @@ function toMeta(slug: string, data: Record<string, unknown>): BookMeta {
     publishedAt: String(data.publishedAt ?? ""),
     updatedAt: data.updatedAt as string | undefined,
     coverImage: explicitCover || coverFromIsbn(isbn),
+    infographic: data.infographic as string | undefined,
     excerpt: String(data.excerpt ?? ""),
     coreIdea: String(data.coreIdea ?? ""),
     forWhom: (data.forWhom as string[]) ?? [],

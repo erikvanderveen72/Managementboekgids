@@ -122,6 +122,23 @@ export default async function BookPage({
             </section>
           )}
 
+          {book.infographic && (
+            <section className="mt-12">
+              <h2 className="font-serif text-xl">Infographic</h2>
+              <p className="mt-2 text-sm text-ink-muted">
+                Het boek in één oogopslag.
+              </p>
+              <figure className="mt-6 overflow-hidden rounded-sm border border-ink/10 bg-paper-warm">
+                <img
+                  src={book.infographic}
+                  alt={`Infographic: samenvatting van ${book.title}`}
+                  loading="lazy"
+                  className="block w-full h-auto"
+                />
+              </figure>
+            </section>
+          )}
+
           {book.lessons.length > 0 && (
             <section className="mt-12">
               <h2 className="font-serif text-xl">De belangrijkste lessen</h2>

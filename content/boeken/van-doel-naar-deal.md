@@ -8,6 +8,7 @@ publisher: "Uitgeverij Thema"
 year: 2026
 pages: 176
 isbn: "9789462724891"
+infographic: "/infographics/van-doel-naar-deal.png"
 categories:
   - "Onderhandelen"
   - "Communicatie"

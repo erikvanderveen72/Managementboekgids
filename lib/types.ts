@@ -23,6 +23,7 @@ export type BookMeta = {
   publishedAt: string;
   updatedAt?: string;
   coverImage?: string;
+  infographic?: string;
   excerpt: string;
   coreIdea: string;
   forWhom: string[];
