@@ -22,11 +22,11 @@ De boeken in deze categorie pakken het anders aan. *Voor succes in je werk moet 
 
 Wat de beste productiviteit-boeken delen:
 
-**1. Aandacht is de schaarste, niet tijd** — Je kunt niet meer uren in een dag stoppen, je kunt wel betere uren hebben. Aandacht beschermen is belangrijker dan tijd vinden.
+**1. Aandacht is de schaarste, niet tijd**: Je kunt niet meer uren in een dag stoppen, je kunt wel betere uren hebben. Aandacht beschermen is belangrijker dan tijd vinden.
 
-**2. Herstel is geen luxe** — Wie niet structureel herstelt, presteert ondergemiddeld zonder het zelf te merken. De kostbaarste fout in productiviteit is geloven dat doorwerken altijd beter is dan pauzeren.
+**2. Herstel is geen luxe**: Wie niet structureel herstelt, presteert ondergemiddeld zonder het zelf te merken. De kostbaarste fout in productiviteit is geloven dat doorwerken altijd beter is dan pauzeren.
 
-**3. Focus boven volume** — Tien dingen half doen kost meer energie dan drie dingen goed doen, en levert minder op. Kies en accepteer wat je niet doet.
+**3. Focus boven volume**: Tien dingen half doen kost meer energie dan drie dingen goed doen, en levert minder op. Kies en accepteer wat je niet doet.
 
 ## Waar te beginnen?
 

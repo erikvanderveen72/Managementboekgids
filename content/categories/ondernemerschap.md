@@ -17,11 +17,11 @@ relatedCategories:
 
 In de Nederlandse ondernemerschap-literatuur zijn drie hoofdstromingen herkenbaar:
 
-**Praktisch en herhaalbaar** — Ondernemerschap als systeem van experimenten en patronen. *Ondernemen zoals de Startup King* van Jeroen Dekker en *Goeiegast* van Verspeek & Buiting werken hier — van succesvol meerdere bedrijven bouwen tot één bedrijf bouwen op cultuur.
+**Praktisch en herhaalbaar**: Ondernemerschap als systeem van experimenten en patronen. *Ondernemen zoals de Startup King* van Jeroen Dekker en *Goeiegast* van Verspeek & Buiting werken hier, van succesvol meerdere bedrijven bouwen tot één bedrijf bouwen op cultuur.
 
-**Reflectief en persoonlijk** — Ondernemerschap als persoonlijke reis met kosten en lessen. *Spijtvrij ondernemen* van Emma Hafkamp staat in deze hoek.
+**Reflectief en persoonlijk**: Ondernemerschap als persoonlijke reis met kosten en lessen. *Spijtvrij ondernemen* van Emma Hafkamp staat in deze hoek.
 
-**Hybride en financieel** — Ondernemerschap niet als alles-of-niets keuze, maar als hefboom naast loondienst. *Miljonair in loondienst* van Aad van der Zalm vertegenwoordigt deze stroming.
+**Hybride en financieel**: Ondernemerschap niet als alles-of-niets keuze, maar als hefboom naast loondienst. *Miljonair in loondienst* van Aad van der Zalm vertegenwoordigt deze stroming.
 
 ## De rode draad
 
@@ -29,4 +29,4 @@ Wat alle goede ondernemerschap-boeken delen: ze idealiseren niets. Ze laten zien
 
 ## Hoe lees je deze categorie?
 
-Ben je nog niet ondernemer maar denkt erover na? Begin bij *Ondernemen zoals de Startup King* of *Miljonair in loondienst* — die geven verschillende mogelijke paden. Ben je al een paar jaar bezig en voel je dat het zwaar wordt? *Spijtvrij ondernemen* is een rustige spiegel. Wil je inspiratie voor cultuur in je bedrijf? *Goeiegast*.
+Ben je nog niet ondernemer maar denkt erover na? Begin bij *Ondernemen zoals de Startup King* of *Miljonair in loondienst*, die geven verschillende mogelijke paden. Ben je al een paar jaar bezig en voel je dat het zwaar wordt? *Spijtvrij ondernemen* is een rustige spiegel. Wil je inspiratie voor cultuur in je bedrijf? *Goeiegast*.

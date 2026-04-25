@@ -30,7 +30,7 @@ Belangrijker dan welk boek je eerst pakt, is dát je bewust kiest. Eén goed lei
 
 Vier thema's komen telkens terug, in verschillende vermommingen:
 
-1. **Zelfkennis voor zelfstu​ring** — Je kunt geen anderen leiden waar je jezelf niet kent. Bewustzijn van je eigen reactiepatronen, valkuilen en blinde vlekken is het startpunt.
-2. **Heldere communicatie** — Goede leiders maken duidelijk wat ze willen, waarom, en wat ze van anderen verwachten. Onhelderheid kost meer dan harde feedback.
-3. **Vertrouwen als infrastructuur** — Teams die elkaar vertrouwen presteren beter onder druk. Vertrouwen wordt gebouwd in kleine momenten, niet in offsites.
-4. **Volwassenheid in conflict** — Echte leiders mijden conflict niet. Ze leren ermee om te gaan zonder dat de relatie of de inhoud erbij inschiet.
+1. **Zelfkennis voor zelfstu​ring**: Je kunt geen anderen leiden waar je jezelf niet kent. Bewustzijn van je eigen reactiepatronen, valkuilen en blinde vlekken is het startpunt.
+2. **Heldere communicatie**: Goede leiders maken duidelijk wat ze willen, waarom, en wat ze van anderen verwachten. Onhelderheid kost meer dan harde feedback.
+3. **Vertrouwen als infrastructuur**: Teams die elkaar vertrouwen presteren beter onder druk. Vertrouwen wordt gebouwd in kleine momenten, niet in offsites.
+4. **Volwassenheid in conflict**: Echte leiders mijden conflict niet. Ze leren ermee om te gaan zonder dat de relatie of de inhoud erbij inschiet.

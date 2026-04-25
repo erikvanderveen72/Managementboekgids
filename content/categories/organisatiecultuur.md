@@ -1,5 +1,5 @@
 ---
-intro: "Cultuur eet strategie als ontbijt — die uitspraak van Peter Drucker is in elke directiekamer wel eens gevallen. Maar wat doe je daar mee? Boeken in deze categorie gaan voorbij de slogan en behandelen organisatiecultuur als iets meetbaars, beïnvloedbaars en van dagelijks belang."
+intro: "Cultuur eet strategie als ontbijt, die uitspraak van Peter Drucker is in elke directiekamer wel eens gevallen. Maar wat doe je daar mee? Boeken in deze categorie gaan voorbij de slogan en behandelen organisatiecultuur als iets meetbaars, beïnvloedbaars en van dagelijks belang."
 forWhom:
   - "Bestuurders en directieleden die cultuur willen veranderen of beschermen"
   - "HR- en OD-professionals"
@@ -24,4 +24,4 @@ Eén centrale boodschap: **cultuur volgt gedrag, niet beleid**. Wie cultuur wil 
 
 ## Praktische volgorde
 
-Beginnend met cultuur in een kleinere organisatie? Pak *Goeiegast* — een toegankelijk verhaal uit de praktijk, geen jargon. Werk je in een groter team waar gesprekken stroef gaan? *Samen safe* of *Waarom zegt niemand er wat van?!* zijn ideale startpunten. Worstelt je MT met de eigen dynamiek? *De vier gekkies in je MT*.
+Beginnend met cultuur in een kleinere organisatie? Pak *Goeiegast*, een toegankelijk verhaal uit de praktijk, geen jargon. Werk je in een groter team waar gesprekken stroef gaan? *Samen safe* of *Waarom zegt niemand er wat van?!* zijn ideale startpunten. Worstelt je MT met de eigen dynamiek? *De vier gekkies in je MT*.

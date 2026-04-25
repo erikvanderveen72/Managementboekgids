@@ -16,11 +16,11 @@ relatedCategories:
 
 Persoonlijke ontwikkeling is geen één-onderwerp. Binnen deze categorie zijn drie hoofdrichtingen herkenbaar:
 
-**Talent en sterke kanten** — Werken in lijn met wat je natuurlijk goed kunt, in plaats van eindeloos sleutelen aan zwakke punten. Tom Rath's *Ontdek je sterke punten 2.0* zit in deze hoek.
+**Talent en sterke kanten**: Werken in lijn met wat je natuurlijk goed kunt, in plaats van eindeloos sleutelen aan zwakke punten. Tom Rath's *Ontdek je sterke punten 2.0* zit in deze hoek.
 
-**Zelfinzicht en reflectie** — Onderzoek je eigen reactiepatronen, ego, blinde vlekken. *Mijn ego heeft altijd gelijk* van Roos Vonk en *Ik (k)en mijn ikken* van Brugman, Budde & Collewijn werken hier.
+**Zelfinzicht en reflectie**: Onderzoek je eigen reactiepatronen, ego, blinde vlekken. *Mijn ego heeft altijd gelijk* van Roos Vonk en *Ik (k)en mijn ikken* van Brugman, Budde & Collewijn werken hier.
 
-**Bezinning en richting** — Wat wil ik écht, en hoe kom ik daar zonder mezelf te verliezen? *Spijtvrij ondernemen* van Emma Hafkamp en *Voor succes in je werk moet je vaker op vakantie* van Ben Tiggelaar zitten in deze categorie.
+**Bezinning en richting**: Wat wil ik écht, en hoe kom ik daar zonder mezelf te verliezen? *Spijtvrij ondernemen* van Emma Hafkamp en *Voor succes in je werk moet je vaker op vakantie* van Ben Tiggelaar zitten in deze categorie.
 
 ## Hoe ga je hier verstandig mee om?
 
@@ -30,4 +30,4 @@ Het kleine recept: lees één boek per maand, doe één concrete oefening per we
 
 ## Wat dit géén categorie is
 
-Niet elk boek dat draait om "jezelf" is hier op zijn plaats. Productiviteit zit in de aparte productiviteit-categorie, mentale gezondheid in een eigen hoek. Hier draait het om de vraag wie je bent en wie je wilt worden — niet om hoe je meer gedaan krijgt of hoe je minder stress hebt.
+Niet elk boek dat draait om "jezelf" is hier op zijn plaats. Productiviteit zit in de aparte productiviteit-categorie, mentale gezondheid in een eigen hoek. Hier draait het om de vraag wie je bent en wie je wilt worden, niet om hoe je meer gedaan krijgt of hoe je minder stress hebt.

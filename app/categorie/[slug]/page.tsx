@@ -82,7 +82,7 @@ export default async function CategoryPage({
             <h2 className="font-serif text-2xl">Voor wie zijn deze boeken?</h2>
             <ul className="mt-4 space-y-2 text-ink-soft">
               {content.forWhom.map((x) => (
-                <li key={x}>— {x}</li>
+                <li key={x}>: {x}</li>
               ))}
             </ul>
           </section>

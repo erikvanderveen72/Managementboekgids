@@ -50,7 +50,7 @@ lessons:
   - title: "Groepsdruk werkt juist aan de top"
     description: "Mensen denken dat hun peers onafhankelijk oordelen. Ze doen dat zelden, omdat uitstappen uit de consensus sociale kosten heeft."
   - title: "Denkfouten zijn systematisch"
-    description: "Overmoed, verliesaversie, ankereffecten — deze vertekeningen worden door bestuurders niet minder gemaakt dan door anderen. Soms meer, omdat ze zelden worden gecorrigeerd."
+    description: "Overmoed, verliesaversie, ankereffecten, deze vertekeningen worden door bestuurders niet minder gemaakt dan door anderen. Soms meer, omdat ze zelden worden gecorrigeerd."
 ---
 
 ## Waar gaat dit boek over?

@@ -69,6 +69,6 @@ Het unieke aan dit boek is de koppeling tussen boek en online test. Je leest nie
 
 **Koop dit boek als** je nog nooit een talentassessment hebt gedaan en op een laagdrempelige manier zelfinzicht wilt, of als je een gemeenschappelijke talentenbasis in je team wilt leggen.
 
-**Sla dit boek over als** je al een CliftonStrengths-rapport hebt, of een diepgaand werk zoekt over persoonlijkheid en prestatie — pak dan *Range* van Epstein.
+**Sla dit boek over als** je al een CliftonStrengths-rapport hebt, of een diepgaand werk zoekt over persoonlijkheid en prestatie, pak dan *Range* van Epstein.
 
 > **Transparantie:** Deze bespreking is geschreven op basis van openbare bronnen en de bekende StrengthsFinder-methodologie. We werken de pagina bij na complete lezing.

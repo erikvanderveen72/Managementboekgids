@@ -1,5 +1,5 @@
 ---
-intro: "Verandermanagement is een vakgebied dat zichzelf voortdurend opnieuw uitvindt. Wat in de jaren '90 werkte met top-down stappenplannen, werkt zelden meer in de complexe organisaties van vandaag. Deze categorie bundelt de boeken die het vakgebied serieus nemen — zowel de praktische als de meer systemische werken."
+intro: "Verandermanagement is een vakgebied dat zichzelf voortdurend opnieuw uitvindt. Wat in de jaren '90 werkte met top-down stappenplannen, werkt zelden meer in de complexe organisaties van vandaag. Deze categorie bundelt de boeken die het vakgebied serieus nemen, zowel de praktische als de meer systemische werken."
 forWhom:
   - "Programma- en projectleiders in verandertrajecten"
   - "Bestuurders en directeuren die organisaties moeten transformeren"
@@ -23,9 +23,9 @@ De boeken in deze categorie beschrijven dat fundamentele probleem vanuit verschi
 
 Een handzaam onderscheid:
 
-1. **Project-verandering** — afgebakend, planbaar, met eigenaar (*Vaart in verandering*)
-2. **Organisatie-verandering** — cultuur, structuur, gedrag in samenhang (*Veranderen voor de toekomst*)
-3. **Systemische verandering** — over organisatiegrenzen heen, multi-actor, taai (*De logica van de lappendeken*)
+1. **Project-verandering**: afgebakend, planbaar, met eigenaar (*Vaart in verandering*)
+2. **Organisatie-verandering**: cultuur, structuur, gedrag in samenhang (*Veranderen voor de toekomst*)
+3. **Systemische verandering**: over organisatiegrenzen heen, multi-actor, taai (*De logica van de lappendeken*)
 
 Niet elk boek werkt voor elk niveau. Wie een afgebakend project begeleidt, heeft niet veel aan een filosofisch werk over taaie vraagstukken. Wie een transitie over sectoren leidt, vindt in een tactisch boek geen houvast.
 
