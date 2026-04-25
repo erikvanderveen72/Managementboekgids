@@ -21,7 +21,7 @@ export function BookCard({ book, rank }: Props) {
             <BookCover
               src={book.coverImage}
               alt={`Cover van ${book.title}`}
-              maxHeight={220}
+              sizeClass="max-h-[200px] sm:max-h-[220px]"
             />
           </div>
         </Link>

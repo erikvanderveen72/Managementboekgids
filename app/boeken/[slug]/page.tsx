@@ -76,20 +76,20 @@ export default async function BookPage({
   return (
     <article>
       <header className="border-b border-ink/10 bg-paper-warm">
-        <div className="container-wide grid gap-10 py-16 md:grid-cols-5">
+        <div className="container-wide grid gap-8 py-10 md:grid-cols-5 md:gap-10 md:py-16">
           <div className="md:col-span-3">
             <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
               {book.categories[0] ?? "Bespreking"}
             </p>
-            <h1 className="mt-4 font-serif text-4xl leading-tight md:text-5xl">
+            <h1 className="mt-3 font-serif text-3xl leading-tight sm:text-4xl md:mt-4 md:text-5xl">
               {book.title}
             </h1>
             {book.subtitle && (
-              <p className="mt-3 font-serif text-xl text-ink-soft">
+              <p className="mt-3 font-serif text-lg text-ink-soft sm:text-xl">
                 {book.subtitle}
               </p>
             )}
-            <p className="mt-6 text-sm text-ink-muted">
+            <p className="mt-5 text-sm text-ink-muted md:mt-6">
               {book.authors.join(" & ")}
               {book.publisher ? ` · ${book.publisher}` : ""}
               {book.year ? ` · ${book.year}` : ""}
@@ -97,14 +97,26 @@ export default async function BookPage({
             </p>
           </div>
           {book.coverImage && (
-            <div className="md:col-span-2 flex items-start justify-center md:justify-end">
-              <BookCover src={book.coverImage} alt={`Cover van ${book.title}`} />
+            <div className="flex items-start justify-center md:col-span-2 md:justify-end">
+              <BookCover
+                src={book.coverImage}
+                alt={`Cover van ${book.title}`}
+                sizeClass="max-h-[260px] sm:max-h-[320px] md:max-h-[420px]"
+              />
+            </div>
+          )}
+          {book.affiliate.managementboek && (
+            <div className="md:hidden">
+              <AffiliateButton href={book.affiliate.managementboek} />
+              <p className="mt-2 text-center text-xs text-ink-muted">
+                Partnerlink. Jij betaalt niets extra.
+              </p>
             </div>
           )}
         </div>
       </header>
 
-      <div className="container-wide grid gap-12 py-14 md:grid-cols-3">
+      <div className="container-wide grid gap-10 py-10 md:grid-cols-3 md:gap-12 md:py-14">
         <div className="md:col-span-2">
           <section>
             <h2 className="font-serif text-xl">In het kort</h2>
@@ -232,7 +244,7 @@ export default async function BookPage({
         </div>
 
         <aside className="md:col-span-1">
-          <div className="sticky top-8 space-y-8 border border-ink/10 bg-white p-6">
+          <div className="space-y-8 border border-ink/10 bg-white p-6 md:sticky md:top-8">
             <div>
               <p className="font-serif text-xs uppercase tracking-[0.2em] text-ink-muted">
                 Koop dit boek

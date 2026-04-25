@@ -51,11 +51,11 @@ export default async function CategoryPage({
   return (
     <>
       <header className="bg-paper-warm">
-        <div className="container-wide py-16">
+        <div className="container-wide py-10 md:py-16">
           <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
             Categorie
           </p>
-          <h1 className="mt-3 font-serif text-4xl md:text-5xl">
+          <h1 className="mt-3 font-serif text-3xl leading-tight sm:text-4xl md:text-5xl">
             Beste boeken over {name.toLowerCase()}
           </h1>
           {content?.intro && (

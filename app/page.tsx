@@ -11,11 +11,11 @@ export default function HomePage() {
 
   return (
     <>
-      <section className="container-wide pt-16 pb-10">
+      <section className="container-wide pb-8 pt-10 md:pb-10 md:pt-16">
         <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
           Managementboekgids
         </p>
-        <h1 className="mt-4 max-w-3xl font-serif text-4xl leading-tight md:text-5xl">
+        <h1 className="mt-4 max-w-3xl font-serif text-3xl leading-tight sm:text-4xl md:text-5xl">
           De beste managementboeken van Nederland,{" "}
           <span className="text-accent">vertaald naar de praktijk</span>.
         </h1>
@@ -28,13 +28,13 @@ export default function HomePage() {
 
       {featured && (
         <section className="bg-paper-warm">
-          <div className="container-wide py-16">
-            <div className="grid gap-12 md:grid-cols-12 md:items-center">
+          <div className="container-wide py-10 md:py-16">
+            <div className="grid gap-8 md:grid-cols-12 md:items-center md:gap-12">
               <div className="order-2 md:order-1 md:col-span-7">
                 <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
                   Nieuwste bespreking
                 </p>
-                <h2 className="mt-4 font-serif text-4xl leading-tight md:text-5xl">
+                <h2 className="mt-4 font-serif text-3xl leading-tight sm:text-4xl md:text-5xl">
                   <Link
                     href={`/boeken/${featured.slug}`}
                     className="no-underline text-ink hover:text-accent"
@@ -74,7 +74,7 @@ export default function HomePage() {
                       <BookCover
                         src={featured.coverImage}
                         alt={`Cover van ${featured.title}`}
-                        maxHeight={460}
+                        sizeClass="max-h-[280px] sm:max-h-[360px] md:max-h-[460px]"
                       />
                     </div>
                   </Link>
