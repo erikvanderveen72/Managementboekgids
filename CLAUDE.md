@@ -21,6 +21,7 @@ Lees dit bestand bij het begin van een nieuwe chat. Het vat de status, conventie
 - `claude/review-project-setup-smbxU` → **production** (Vercel deployt deze branch op managementboekgids.nl, geverifieerd via Erik-label-test op 2026-04-25)
 - `main` → loopt achter, wordt niet door Vercel gedeployt
 - Eén push naar `claude/review-project-setup-smbxU` is genoeg om live te gaan: `git push origin <branch>:claude/review-project-setup-smbxU`
+- **Sta-toestemming (Erik, 2026-04-25):** push altijd direct door naar de live-branch zodra wijzigingen af zijn en de build slaagt. Niet meer apart om bevestiging vragen.
 
 ## Folderstructuur
 
