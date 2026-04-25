@@ -1,0 +1,6 @@
+# Infographics
+
+Drop infographic afbeeldingen in deze folder, bijvoorbeeld:
+- van-doel-naar-deal.png
+
+De frontmatter van een boek verwijst dan via `infographic: /infographics/<bestandsnaam>` naar het beeld.
