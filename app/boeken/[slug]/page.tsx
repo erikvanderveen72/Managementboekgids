@@ -76,43 +76,46 @@ export default async function BookPage({
   return (
     <article>
       <header className="border-b border-ink/10 bg-paper-warm">
-        <div className="container-wide grid gap-8 py-10 md:grid-cols-5 md:gap-10 md:py-16">
-          <div className="md:col-span-3">
-            <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
-              {book.categories[0] ?? "Bespreking"}
-            </p>
-            <h1 className="mt-3 font-serif text-3xl leading-tight sm:text-4xl md:mt-4 md:text-5xl">
-              {book.title}
-            </h1>
-            {book.subtitle && (
-              <p className="mt-3 font-serif text-lg text-ink-soft sm:text-xl">
-                {book.subtitle}
+        <div className="container-wide pt-10 md:pt-16">
+          <div className="grid gap-8 md:grid-cols-5 md:gap-10">
+            <div className="md:col-span-3">
+              <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
+                {book.categories[0] ?? "Bespreking"}
               </p>
-            )}
-            <p className="mt-5 text-sm text-ink-muted md:mt-6">
-              {book.authors.join(" & ")}
-              {book.publisher ? ` · ${book.publisher}` : ""}
-              {book.year ? ` · ${book.year}` : ""}
-              {book.pages ? ` · ${book.pages} pagina's` : ""}
-            </p>
-          </div>
-          {book.coverImage && (
-            <div className="flex items-start justify-center md:col-span-2 md:justify-end">
-              <BookCover
-                src={book.coverImage}
-                alt={`Cover van ${book.title}`}
-                sizeClass="max-h-[260px] sm:max-h-[320px] md:max-h-[420px]"
-              />
+              <h1 className="mt-3 font-serif text-3xl leading-tight sm:text-4xl md:mt-4 md:text-5xl">
+                {book.title}
+              </h1>
+              {book.subtitle && (
+                <p className="mt-3 font-serif text-lg text-ink-soft sm:text-xl">
+                  {book.subtitle}
+                </p>
+              )}
+              <p className="mt-5 text-sm text-ink-muted md:mt-6">
+                {book.authors.join(" & ")}
+                {book.publisher ? ` · ${book.publisher}` : ""}
+                {book.year ? ` · ${book.year}` : ""}
+                {book.pages ? ` · ${book.pages} pagina's` : ""}
+              </p>
             </div>
-          )}
+            {book.coverImage && (
+              <div className="flex items-start justify-center md:col-span-2 md:justify-end">
+                <BookCover
+                  src={book.coverImage}
+                  alt={`Cover van ${book.title}`}
+                  sizeClass="max-h-[240px] sm:max-h-[320px] md:max-h-[420px]"
+                />
+              </div>
+            )}
+          </div>
           {book.affiliate.managementboek && (
-            <div className="md:hidden">
+            <div className="mt-6 pb-10 md:hidden">
               <AffiliateButton href={book.affiliate.managementboek} />
               <p className="mt-2 text-center text-xs text-ink-muted">
                 Partnerlink. Jij betaalt niets extra.
               </p>
             </div>
           )}
+          <div className="hidden md:block md:pb-16" />
         </div>
       </header>
 
