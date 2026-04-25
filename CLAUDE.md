@@ -14,13 +14,13 @@ Lees dit bestand bij het begin van een nieuwe chat. Het vat de status, conventie
 - **TypeScript** strict
 - **Tailwind CSS** + `@tailwindcss/typography`
 - **Markdown + frontmatter** voor alle content (gray-matter, remark, remark-gfm, remark-html)
-- **Vercel** auto-deploy bij push naar `main`
+- **Vercel** auto-deploy bij push naar `claude/review-project-setup-smbxU`
 - **Domein**: managementboekgids.nl (Vercel-hosted)
 
 **Branches:**
-- `main` → production (Vercel deployt automatisch)
-- `claude/review-project-setup-smbxU` → ontwikkelbranch, wordt synchroon gehouden met main
-- Alle commits gaan naar **beide** branches: `git push origin claude/review-project-setup-smbxU && git push origin claude/review-project-setup-smbxU:main`
+- `claude/review-project-setup-smbxU` → **production** (Vercel deployt deze branch op managementboekgids.nl, geverifieerd via Erik-label-test op 2026-04-25)
+- `main` → loopt achter, wordt niet door Vercel gedeployt
+- Eén push naar `claude/review-project-setup-smbxU` is genoeg om live te gaan: `git push origin <branch>:claude/review-project-setup-smbxU`
 
 ## Folderstructuur
 
@@ -134,10 +134,9 @@ npm run build  # altijd eerst lokaal valideren
 git add -A
 git commit -m "..."
 git push origin claude/review-project-setup-smbxU
-git push origin claude/review-project-setup-smbxU:main
 ```
 
-Beide branches synchroon houden voorkomt rare Vercel-deploy-situaties.
+Eén push naar `claude/review-project-setup-smbxU` is genoeg, want dat is de branch die Vercel naar managementboekgids.nl deployt. `main` hoeft niet meegesleept.
 
 ## Status (april 2026)
 
@@ -160,7 +159,7 @@ Beide branches synchroon houden voorkomt rare Vercel-deploy-situaties.
 1. **Gat-vulling**: posities **26-35** uit Managementboek Top 100 ontbreken. Wachten op screenshots van Erik.
 2. **Optionele cleanup**: de Van doel naar deal infographic heet `78F43431-35C7-4AEB-9A6E-22E7FED7B435.png` (iPhone UUID). Werkt prima, maar voor een nettere repo zou hernoemen naar `van-doel-naar-deal.png` mooier zijn.
 3. **Affiliate IDs**: alle managementboek-links zijn nu generieke boekpagina's of zoeklinks. Echt affiliate-ID nog niet ingevoegd.
-4. **Vercel production branch**: staat nu op `claude/review-project-setup-smbxU`. Erik kan dit later omzetten naar `main` (Settings → Git → Production Branch).
+4. **Vercel production branch**: staat op `claude/review-project-setup-smbxU` (geverifieerd 2026-04-25 via Erik-label-test). Erik kan dit later omzetten naar `main` (Settings → Git → Production Branch) als hij conventioneler wil werken.
 
 ## Tone-of-voice voorbeelden
 
