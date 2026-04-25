@@ -8,9 +8,6 @@ export function SiteHeader() {
           <span className="font-serif text-base tracking-tight text-ink sm:text-xl">
             Managementboekgids
           </span>
-          <span className="ml-2 rounded bg-accent px-2 py-0.5 text-xs font-bold text-paper">
-            Erik2
-          </span>
         </Link>
         <nav className="flex items-center gap-4 text-sm text-ink-soft sm:gap-6">
           <Link href="/boeken" className="no-underline hover:text-ink">
