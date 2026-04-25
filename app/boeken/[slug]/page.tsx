@@ -78,7 +78,7 @@ export default async function BookPage({
       <header className="border-b border-ink/10 bg-paper-warm">
         <div className="container-wide pt-10 md:pt-16">
           <div className="grid gap-8 md:grid-cols-5 md:gap-10">
-            <div className="md:col-span-3">
+            <div className="min-w-0 md:col-span-3">
               <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
                 {book.categories[0] ?? "Bespreking"}
               </p>
@@ -120,7 +120,7 @@ export default async function BookPage({
       </header>
 
       <div className="container-wide grid gap-10 py-10 md:grid-cols-3 md:gap-12 md:py-14">
-        <div className="md:col-span-2">
+        <div className="min-w-0 md:col-span-2">
           <section>
             <h2 className="font-serif text-xl">In het kort</h2>
             <p className="mt-3 text-lg leading-relaxed text-ink-soft">
@@ -246,7 +246,7 @@ export default async function BookPage({
           )}
         </div>
 
-        <aside className="md:col-span-1">
+        <aside className="min-w-0 md:col-span-1">
           <div className="space-y-8 border border-ink/10 bg-white p-6 md:sticky md:top-8">
             <div>
               <p className="font-serif text-xs uppercase tracking-[0.2em] text-ink-muted">
