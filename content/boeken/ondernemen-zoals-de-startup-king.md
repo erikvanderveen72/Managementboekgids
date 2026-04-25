@@ -4,6 +4,7 @@ subtitle: "6 bedrijven opzetten en 6 keer succesvol zijn, iedereen kan het"
 authors:
   - "Jeroen Dekker"
 publisher: "Eigen beheer"
+isbn: "9789493496064"
 year: 2024
 pages: 256
 categories:
