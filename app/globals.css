@@ -5,10 +5,14 @@
 @layer base {
   html {
     font-feature-settings: "ss01", "cv11";
+    overflow-x: hidden;
+    overflow-x: clip;
   }
   body {
     @apply bg-paper text-ink font-sans antialiased;
     overflow-x: hidden;
+    overflow-x: clip;
+    overflow-wrap: break-word;
   }
   h1, h2, h3, h4 {
     @apply font-serif text-ink;
