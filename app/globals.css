@@ -7,12 +7,21 @@
     font-feature-settings: "ss01", "cv11";
     overflow-x: hidden;
     overflow-x: clip;
+    scroll-behavior: smooth;
   }
   body {
     @apply bg-paper text-ink font-sans antialiased;
     overflow-x: hidden;
     overflow-x: clip;
     overflow-wrap: break-word;
+  }
+  ::selection {
+    background-color: rgba(138, 90, 43, 0.18);
+    color: #1a1a1a;
+  }
+  :focus-visible {
+    outline: 2px solid #8a5a2b;
+    outline-offset: 2px;
   }
   h1, h2, h3, h4 {
     @apply font-serif text-ink;

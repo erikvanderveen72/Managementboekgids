@@ -4,6 +4,14 @@ export const metadata: Metadata = {
   title: "Affiliate disclosure",
   description:
     "Hoe Managementboekgids omgaat met affiliate links en transparantie.",
+  alternates: { canonical: "/affiliate" },
+  openGraph: {
+    title: "Affiliate disclosure",
+    description:
+      "Hoe Managementboekgids omgaat met affiliate links en transparantie.",
+    type: "website",
+    url: "/affiliate",
+  },
 };
 
 export default function AffiliatePage() {

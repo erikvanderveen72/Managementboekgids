@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BookCard } from "@/components/BookCard";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
 import {
   categorySlug,
   getAllCategories,
@@ -9,6 +10,8 @@ import {
   getCategoryName,
 } from "@/lib/books";
 import { getCategoryContent } from "@/lib/categories";
+
+const SITE_URL = "https://managementboekgids.nl";
 
 type Params = { slug: string };
 
@@ -25,11 +28,19 @@ export async function generateMetadata({
   const name = getCategoryName(slug);
   if (!name) return {};
   const content = await getCategoryContent(slug);
+  const description =
+    content?.intro ?? `Managementboeken in de categorie ${name}.`;
+  const url = `/categorie/${slug}`;
   return {
     title: `Beste boeken over ${name.toLowerCase()}`,
-    description:
-      content?.intro ??
-      `Managementboeken in de categorie ${name}.`,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title: `Beste boeken over ${name.toLowerCase()}`,
+      description,
+      type: "website",
+      url,
+    },
   };
 }
 
@@ -48,10 +59,52 @@ export default async function CategoryPage({
     ? books.find((b) => b.slug === content.topPick)
     : undefined;
 
+  const breadcrumbsJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: `${SITE_URL}/` },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Categorieën",
+        item: `${SITE_URL}/categorieen`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name,
+        item: `${SITE_URL}/categorie/${slug}`,
+      },
+    ],
+  };
+
+  const itemListJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: `Beste boeken over ${name.toLowerCase()}`,
+    numberOfItems: books.length,
+    itemListElement: books.map((b, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      url: `${SITE_URL}/boeken/${b.slug}`,
+      name: b.title,
+    })),
+  };
+
   return (
     <>
       <header className="bg-paper-warm">
-        <div className="container-wide py-10 md:py-16">
+        <div className="container-wide pt-6 md:pt-10">
+          <Breadcrumbs
+            items={[
+              { label: "Home", href: "/" },
+              { label: "Categorieën", href: "/categorieen" },
+              { label: name },
+            ]}
+          />
+        </div>
+        <div className="container-wide pb-10 pt-6 md:pb-16 md:pt-10">
           <p className="font-serif text-xs uppercase tracking-[0.25em] text-ink-muted">
             Categorie
           </p>
@@ -82,7 +135,10 @@ export default async function CategoryPage({
             <h2 className="font-serif text-2xl">Voor wie zijn deze boeken?</h2>
             <ul className="mt-4 space-y-2 text-ink-soft">
               {content.forWhom.map((x) => (
-                <li key={x}>: {x}</li>
+                <li key={x} className="flex gap-2">
+                  <span aria-hidden="true" className="text-accent">·</span>
+                  <span>{x}</span>
+                </li>
               ))}
             </ul>
           </section>
@@ -125,7 +181,7 @@ export default async function CategoryPage({
                 <Link
                   key={c}
                   href={`/categorie/${categorySlug(c)}`}
-                  className="rounded-full border border-ink/15 px-3 py-1 text-sm text-ink-soft no-underline hover:border-ink/40 hover:text-ink"
+                  className="rounded-full border border-ink/15 bg-paper px-3 py-1 text-sm text-ink-soft no-underline transition hover:border-ink/40 hover:text-ink"
                 >
                   {c}
                 </Link>
@@ -134,6 +190,15 @@ export default async function CategoryPage({
           </section>
         )}
       </div>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }}
+      />
     </>
   );
 }

@@ -4,6 +4,14 @@ export const metadata: Metadata = {
   title: "Over Managementboekgids",
   description:
     "Managementboekgids bespreekt de beste managementboeken van Nederland en vertaalt ze naar praktische lessen.",
+  alternates: { canonical: "/over" },
+  openGraph: {
+    title: "Over Managementboekgids",
+    description:
+      "Managementboekgids bespreekt de beste managementboeken van Nederland.",
+    type: "website",
+    url: "/over",
+  },
 };
 
 export default function AboutPage() {
