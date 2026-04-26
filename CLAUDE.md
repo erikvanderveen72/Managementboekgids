@@ -23,6 +23,11 @@ Lees dit bestand bij het begin van een nieuwe chat. Het vat de status, conventie
 - Eén push naar `claude/review-project-setup-smbxU` is genoeg om live te gaan: `git push origin <branch>:claude/review-project-setup-smbxU`
 - **Sta-toestemming (Erik, 2026-04-25):** push altijd direct door naar de live-branch zodra wijzigingen af zijn en de build slaagt. Niet meer apart om bevestiging vragen.
 
+**Build-minuten besparen (Vercel kosten):**
+- Vercel Pro heeft $20 included credit per maand. Build-minuten waren ~$48/maand omdat er een dubbel project bestond (allebei aan dezelfde repo gekoppeld). Verwijderd op 2026-04-26.
+- Resterende optimalisatie: `scripts/vercel-ignore.sh` zorgt dat alleen pushes naar de live-branch een deployment triggeren. Voorwaarde: in Vercel dashboard onder **Settings → Git → Ignored Build Step** moet het commando staan: `bash scripts/vercel-ignore.sh`
+- **Bundel commits** voor je pusht. Elke push = een build = ~1-2 build-minuten. Liever één samengestelde commit dan vijf losse.
+
 ## Folderstructuur
 
 ```
